@@ -14,66 +14,27 @@ type application struct {
 }
 
 func main() {
-	//(This essentially defines a new command-line flag with the name addr, a default value of ":8080" and some short help text explaining what the flag controls.)
+
 	addr := flag.String("addr", ":8080", "HTTP network address")
-	// Define a new command-line flag for the MySQL DSN string.
-	// dsn := flag.String("dsn", "web:pass@/musicregistry?parseTime=true", "MySQL data source")
+
 	flag.Parse()
-	// The value returned from the flag.String() function is a pointer to the flag
-	// value, not the value itself. So in this code, that means the addr variable
-	// is actually a pointer, and we need to dereference it (i.e. prefix it with
-	// the * symbol) before using it. Note that we're using the log.Printf()
-	// function to interpolate the address with the log message.
 
 	logger := slog.New(slog.NewTextHandler(os.Stdout, &slog.HandlerOptions{
 		Level:     slog.LevelDebug,
 		AddSource: true,
 	}))
-	mux := http.NewServeMux()
+
+	app := &application{
+		logger: logger,
+	}
 
 	logger.Info("Well hello there, starting server now!", slog.Any("addr", *addr))
 
-	err := http.ListenAndServe(*addr, mux)
+	err := http.ListenAndServe(*addr, app.routes())
 	logger.Error(err.Error())
 	os.Exit(1)
 
 }
-
-// db, err := openDB(*dsn)
-// if err != nil {
-// 	logger.Error(err.Error())
-// 	os.Exit(1)
-// }
-
-// We also defer a call to db.Close(), so that the connection pool is closed before the main() function exits.
-// defer db.Close()
-
-// app := &application{
-// 	logger: logger,
-// }
-
-// 	logger.Info("starting server", "addr", *addr)
-// 	log.Printf("starting server on %s", *addr)
-// 	err = http.ListenAndServe(*addr, mux)
-// 	log.Fatal(err)
-// 	os.Exit(1)
-// }
-
-// // The openDB() function wraps sql.Open() and returns a sql.DB connection pool for a given DSN.
-// func openDB(dsn string) (*sql.DB, error) {
-// 	db, err := sql.Open("mysql", dsn)
-// 	if err != nil {
-// 		return nil, err
-// 	}
-
-// 	err = db.Ping()
-// 	if err != nil {
-// 		db.Close()
-// 		return nil, err
-// 	}
-
-// 	return db, nil
-// }
 
 // --------------------------------------------
 // OLD WORKING CODE TO GET SOMETHING from GO into the web application, use for reference.
