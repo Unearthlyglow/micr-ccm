@@ -1,9 +1,12 @@
 # (*): Additional Information Needed 
 
+
 # MuseRegistry(*)
 
 
 
+
+# MuseRegistry(*)
 
 
 # Dependencies(*)
@@ -16,6 +19,10 @@
 
 # Muse Registry
  
+
+<!-- `sudo make setup` -->
+
+
 ## Release Milestones
  
 ### V1 (7 Days)
