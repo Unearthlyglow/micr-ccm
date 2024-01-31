@@ -13,39 +13,39 @@
 	<div class="footer--above">
 		<ul>
 			<a href="/#body">
-				<li>Home</li>
+				<li>Tab 1</li>
 			</a>
 			<a href="/about/#body">
-				<li>About</li>
+				<li>Tab 2</li>
 			</a>
 			<a href="/software/#body">
-				<li>Software-Portfolio</li>
+				<li>Tab 3</li>
 			</a>
 		</ul>
 		<ul>
 			<a href="/embedded/#body">
-				<li>Embedded Programming</li>
+				<li>Tab 4</li>
 			</a>
 			<a href="/todos/#body">
-				<li>Website To-Dos</li>
+				<li>Tab 5</li>
 			</a>
 			<a href="/visual/#body">
-				<li>Visual Media</li>
+				<li>Tab 6</li>
 			</a>
 			<a href="/art/#body">
-				<li>Enjoyable Art</li>
+				<li>Tab 7</li>
 			</a>
 		</ul>
 		<ul>
 			<a href="/jazz-manifesto/#body">
-				<li>Jazz Manifesto</li>
+				<li>Tab 8</li>
 			</a>
 			<a href="https://unearthlyglow.github.io/RustMDBooks-CCMBlog/" target="_blank">
-				<li>CCM:: General Blog</li>
+				<li>Tab 9 </li>
 			</a>
 
-			<li data-tooltip="Nooo, not yet!">CCM:: Bob's Electronics Blog</li>
-			<li data-tooltip=" Double Nooo, not yet!">CCM:: Milkbar Blog</li>
+			<li data-tooltip="Nooo, not yet!">Tab 10</li>
+			<li data-tooltip=" Double Nooo, not yet!">Tab 11</li>
 		</ul>
 		<img class="building-logo" alt="The project logo" src={footerLogo} />
 	</div>
@@ -84,25 +84,16 @@
 		<hr class="footer--hr" />
 
 		<div class="footer--ccmquote">
-			<div>
+		
 				<img class="CCM-letters" src={CCMLetters} alt="CCM Letters" />
 				<p class="footer--quote">"It's (Almost) Better Than Life"</p>
-				<img class="footer--kryten" src={kryten} alt="Kryten" />
-			</div>
+
+			<img class="footer--kryten" src={kryten} alt="Kryten" />
 
 			<img class="footer--fire" src={fire} alt="CCM Letters" />
 		</div>
 
-		<div class="footer--footloose">
-			<p class="footer--friends">My Friend's Digital Places:</p>
-			<a href="https://thehappycactusatx.com/">Todd & Mickey's :: The Happy Cactus Apothecary </a>
-
-			<a href="https://www.instagram.com/amatheband/">Blair's :: Ama </a>
-
-			<a href="https://www.josielockharttx.com/">Aaron's :: Josie Lockhart</a>
-
-			<a href="https://adrianshaynes.com/">Adrian's :: HelloMaryJo</a>
-		</div>
+	
 
 		<p class="footer--Bottomtext">
 			Ich bin immer noch dabei, das herauszufinden, also verzeihen Sie mir bitte etwaige Fehler, auf
@@ -110,14 +101,14 @@
 			unlustigen Beschwerden eingereicht werden an DoNotReply@capsules.io.
 		</p>
 		<p class="footer--version">Version: <span>0.0.1</span></p>
-		<p class="footer--version">Last Updated: <span>1 / 22 / 24</span></p>
+		<p class="footer--version">Last Updated: <span>1 / 30 / 24</span></p>
 	</div>
 </footer>
 
 <style lang="scss" global>
 	@import '$lib/styles/global.scss';
 	.footer {
-		background-color: rgb(199, 210, 210);
+		background-color: rgb(244, 245, 225);
 		padding-top: 2rem;
 	}
 
@@ -182,15 +173,17 @@
 
 	.footer--ccmquote {
 		display: flex;
+		flex-direction: column;
 		align-items: center;
-		justify-content: space-between;
+		// justify-content: space-between;
+
 	}
 
 	.footer--kryten {
 		display: block;
 		height: 8rem;
-		margin-left: 8rem;
-		transform: translateY(-1.5rem);
+		// margin-left: 8rem;
+		// transform: translateY(-1.5rem);
 	}
 
 	.footer--quote {
