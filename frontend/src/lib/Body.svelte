@@ -21,9 +21,9 @@
 		</div>
 
 		<hr class="hr--top" />
-		<div class="chanda">
+		<!-- <div class="chanda">
 			<img alt="chandelier" src={chanda} />
-		</div>
+		</div> -->
 		<div class="content">
 			<slot />
 		</div>
@@ -54,9 +54,10 @@
 	}
 
 	#body {
-		background-color: rgb(46, 46, 51);
+		background-color: rgb(60, 42, 64);
+		// background-color: rgb(46, 46, 51);
 
-		border-bottom: 60px solid rgb(32, 26, 56);
+		border-bottom: 60px solid $primary-red;
 		border-top: 14px solid #fddf92;
 		border-left: 2.5px solid #fddf92;
 		border-right: 2.5px solid #fddf92;

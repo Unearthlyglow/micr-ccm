@@ -43,7 +43,7 @@
 
   .header--title {
     color: $primary-red;
-    margin-top: 10rem;
+    margin-top: 5rem;
     font-size: 5rem;
   }
 </style>
