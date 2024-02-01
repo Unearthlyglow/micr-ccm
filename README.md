@@ -4,7 +4,9 @@
 [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go)
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
+
+
 
 Got the replit badge up...BUT still have the following issue to take care of with the actual repo on replit so that everthing works when the GO button is clicked. 
 
