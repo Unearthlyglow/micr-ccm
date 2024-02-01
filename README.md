@@ -1,6 +1,6 @@
 
-[![run on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)]
-[![run on repl.it](https://replit.com/@AwardMalisi/sveltego#cmd/main.go)]
+[![run on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go)
+
 
 
 # (*): Additional Information Needed 
