@@ -13,15 +13,18 @@
 					>CCM General Blog(MD Book)</a
 				>
 			</li>
+			
 		</ul>
+		
 	</li>
+	<li class="class-divide">||</li>
+
 	<li class="class-divide">||</li>
 	<li role="list" dir="rtl">
 		<p class="tab-intact" aria-haspopup="listbox">Instrument Missing</p>
 		<ul role="listbox">
 			<li><a href="/softwaremap/#body">Software Portfolio</a></li>
 			<li><a href="/visual/#body">Visual Media</a></li>
-			<!-- <li><a href="/metro/#body">Metropolis Design</a></li> -->
 			<li><a href="/art/#body">Art I've Enjoyed</a></li>
 			<li><a href="/embedded/#body">The Road To Embedded Programming</a></li>
 		</ul>
@@ -30,9 +33,7 @@
 	<li role="list" dir="rtl">
 		<p class="tab-intact" aria-haspopup="listbox">About</p>
 		<ul role="listbox">
-			<li><a href="/about/#body">About Me</a></li>
-			<!-- <li><a href="/about/resume">Resume</a></li> -->
-			<li><a href="/todos/#body">Website To-Do List!</a></li>
+			<li><a href="/about/#body">About The Project</a></li>
 		</ul>
 	</li>
 </nav>

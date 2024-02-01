@@ -15,6 +15,7 @@
 
 <div id="body">
 	<div class="body--inner">
+		<h1 class="header--title">Music Gear Registry</h1>
 		<div class="building-logos">
 			<img class="building-logo" alt="The project logo" src={yellowBuilding} />
 			<img class="building-logo2" alt="The project logo" src={yellowBuilding} />
@@ -73,6 +74,13 @@
 		font-family: 'Lato', sans-serif;
 		color: white;
 	}
+
+	.header--title {
+    color: $primary-red;
+    margin-top: 5rem;
+    font-size: 5rem;
+		text-align: center;
+  }
 
 	.content {
 		margin-left: 10rem;

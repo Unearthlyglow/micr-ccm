@@ -22,9 +22,9 @@
 </script>
 
 <div>
-  <h1 class="header--title">Music Gear Registry</h1>
+ 
 
- <ul>
+ <ul class= "go--payload">
     {#each data as item (`${item.ID}-${item.AnotherProperty}`)}
       <li>{item.ID}: {item.Content}</li>
       <!-- Replace 'ColumnName' with the actual column name you want to display -->
@@ -36,14 +36,12 @@
 <style lang="scss">
 	@import '$lib/styles/global.scss';
 
-
+.go--payload {
+  margin: 3rem;
+}
   div {
     /* background-color: blue; */
   }
 
-  .header--title {
-    color: $primary-red;
-    margin-top: 5rem;
-    font-size: 5rem;
-  }
+  
 </style>
