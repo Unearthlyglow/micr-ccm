@@ -1,6 +1,7 @@
 
-[![run on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go)
+[![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go)
 
+Got the replit badge up...BUT still have the following issue to take care of with the actual repo on replit so that everthing works when the GO button is clicked. 
 
 
 # (*): Additional Information Needed 
