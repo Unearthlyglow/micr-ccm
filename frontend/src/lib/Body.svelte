@@ -15,15 +15,16 @@
 
 <div id="body">
 	<div class="body--inner">
+		<h1 class="header--title">Music Gear Registry</h1>
 		<div class="building-logos">
 			<img class="building-logo" alt="The project logo" src={yellowBuilding} />
 			<img class="building-logo2" alt="The project logo" src={yellowBuilding} />
 		</div>
 
 		<hr class="hr--top" />
-		<div class="chanda">
+		<!-- <div class="chanda">
 			<img alt="chandelier" src={chanda} />
-		</div>
+		</div> -->
 		<div class="content">
 			<slot />
 		</div>
@@ -54,9 +55,10 @@
 	}
 
 	#body {
-		background-color: rgb(46, 46, 51);
+		background-color: rgb(60, 42, 64);
+		// background-color: rgb(46, 46, 51);
 
-		border-bottom: 60px solid rgb(32, 26, 56);
+		border-bottom: 60px solid $primary-red;
 		border-top: 14px solid #fddf92;
 		border-left: 2.5px solid #fddf92;
 		border-right: 2.5px solid #fddf92;
@@ -72,6 +74,13 @@
 		font-family: 'Lato', sans-serif;
 		color: white;
 	}
+
+	.header--title {
+    color: $primary-red;
+    margin-top: 5rem;
+    font-size: 5rem;
+		text-align: center;
+  }
 
 	.content {
 		margin-left: 10rem;

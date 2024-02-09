@@ -16,44 +16,35 @@
 				<li>Home</li>
 			</a>
 			<a href="/about/#body">
-				<li>About</li>
+				<li>Instrument Registration</li>
 			</a>
 			<a href="/software/#body">
-				<li>Software-Portfolio</li>
+				<li>Instrument Missing Report</li>
 			</a>
-		</ul>
-		<ul>
 			<a href="/embedded/#body">
-				<li>Embedded Programming</li>
+				<li>About Page</li>
 			</a>
-			<a href="/todos/#body">
-				<li>Website To-Dos</li>
-			</a>
-			<a href="/visual/#body">
-				<li>Visual Media</li>
-			</a>
-			<a href="/art/#body">
-				<li>Enjoyable Art</li>
-			</a>
+			
 		</ul>
 		<ul>
-			<a href="/jazz-manifesto/#body">
-				<li>Jazz Manifesto</li>
+			<a   href="/embedded/#body">
+				<li>Registry Search</li>
 			</a>
-			<a href="https://unearthlyglow.github.io/RustMDBooks-CCMBlog/" target="_blank">
-				<li>CCM:: General Blog</li>
+			<a  data-tooltip="Developer or not, here's how you can contribute" href="/embedded/#body">
+				<li >Open Source Information</li>
 			</a>
-
-			<li data-tooltip="Nooo, not yet!">CCM:: Bob's Electronics Blog</li>
-			<li data-tooltip=" Double Nooo, not yet!">CCM:: Milkbar Blog</li>
+		
+	
+	
 		</ul>
+		
 		<img class="building-logo" alt="The project logo" src={footerLogo} />
 	</div>
 	<div class="footer--iconss">
 		<a
-			href="https://github.com/Unearthlyglow"
+			href="https://github.com/Unearthlyglow/sveltego"
 			target="_blank"
-			data-tooltip="My Github Repos"
+			data-tooltip="Source Code!"
 			class="footer--github"
 		>
 			<img class="footer--icons" alt="Github Logo" src={githubLogo} />
@@ -65,12 +56,12 @@
 			class="footer--ig"><img class="footer--icons" alt="Instagram Logo" src={IgLogo} /></a
 		>
 
-		<a
+		<!-- <a
 			href="https://www.linkedin.com/in/award-malisi/"
 			target="_blank"
 			data-tooltip="LinkedIn"
 			class="footer--linkedin"><img class="footer--icons" alt="LinkedIn Logo" src={linked} /></a
-		>
+		> -->
 
 		<a
 			href="https://twitter.com/CCMAnd2Cents"
@@ -84,25 +75,16 @@
 		<hr class="footer--hr" />
 
 		<div class="footer--ccmquote">
-			<div>
+		
 				<img class="CCM-letters" src={CCMLetters} alt="CCM Letters" />
 				<p class="footer--quote">"It's (Almost) Better Than Life"</p>
-				<img class="footer--kryten" src={kryten} alt="Kryten" />
-			</div>
+
+			<img class="footer--kryten" src={kryten} alt="Kryten" />
 
 			<img class="footer--fire" src={fire} alt="CCM Letters" />
 		</div>
 
-		<div class="footer--footloose">
-			<p class="footer--friends">My Friend's Digital Places:</p>
-			<a href="https://thehappycactusatx.com/">Todd & Mickey's :: The Happy Cactus Apothecary </a>
-
-			<a href="https://www.instagram.com/amatheband/">Blair's :: Ama </a>
-
-			<a href="https://www.josielockharttx.com/">Aaron's :: Josie Lockhart</a>
-
-			<a href="https://adrianshaynes.com/">Adrian's :: HelloMaryJo</a>
-		</div>
+	
 
 		<p class="footer--Bottomtext">
 			Ich bin immer noch dabei, das herauszufinden, also verzeihen Sie mir bitte etwaige Fehler, auf
@@ -110,14 +92,18 @@
 			unlustigen Beschwerden eingereicht werden an DoNotReply@capsules.io.
 		</p>
 		<p class="footer--version">Version: <span>0.0.1</span></p>
-		<p class="footer--version">Last Updated: <span>1 / 22 / 24</span></p>
-	</div>
+		<p class="footer--version">Last Updated: <span>1 / 30 / 24</span></p>
+	
+</div>
 </footer>
 
 <style lang="scss" global>
+
+	
+
 	@import '$lib/styles/global.scss';
 	.footer {
-		background-color: rgb(199, 210, 210);
+		background-color: rgb(244, 245, 225);
 		padding-top: 2rem;
 	}
 
@@ -177,20 +163,22 @@
 		font-weight: 700;
 		font-size: 0.8rem;
 		margin: 1.5rem;
-		text-align: center;
+		margin-top: 3rem;
+		// text-align: center;
 	}
 
 	.footer--ccmquote {
 		display: flex;
+		flex-direction: column;
 		align-items: center;
-		justify-content: space-between;
+		border-left: solid 1px rgb(193, 193, 213);
+		border-right: solid 1px rgb(193, 193, 213);
+		// justify-content: space-between;
+
 	}
 
 	.footer--kryten {
-		display: block;
 		height: 8rem;
-		margin-left: 8rem;
-		transform: translateY(-1.5rem);
 	}
 
 	.footer--quote {
@@ -258,10 +246,11 @@
 	}
 
 	.CCM-letters {
-		height: 4rem;
+		height: 6rem;
 		width: 6rem;
 		margin-top: 1rem;
 		margin-bottom: 0.5rem;
+		
 	}
 
 	hr {
@@ -303,17 +292,7 @@
 			margin-right: 1.5rem;
 			margin-left: 1rem;
 		}
-		.footer--fire {
-			width: 15rem;
-			height: 15rem;
-		}
-
-		.footer--kryten {
-			display: block;
-			height: 6rem;
-			transform: translateY(-1.5rem);
-		}
-
+	
 		.footer--above > ul > a > li {
 			font-size: 0.76rem;
 		}
@@ -334,22 +313,14 @@
 			margin-left: 1.5rem;
 		}
 
-		.footer--kryten {
-			transform: translateX(-5rem);
-		}
+	
 	}
 
 	@media only screen and (max-width: 500px) {
-		.footer--kryten {
-			transform: translateY(-1.2rem);
-			margin-left: 4rem;
-		}
+
 	}
 
 	@media only screen and (max-width: 450px) {
-		.footer--kryten {
-			transform: translateY(-1rem);
-			margin-left: 2rem;
-		}
+	
 	}
 </style>
