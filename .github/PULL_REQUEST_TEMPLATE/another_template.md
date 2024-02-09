@@ -1,0 +1,1 @@
+Another template's test info.
