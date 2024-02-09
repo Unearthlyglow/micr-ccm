@@ -6,9 +6,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
 
+[Code of Conduct](./CODE_OF_CONDUCT.md) [How to Contribute](./HOW_TO_CONTRIBUTE.md)
 
-
-Got the replit badge up...BUT still have the following issue to take care of with the actual repo on replit so that everthing works when the GO button is clicked. 
 
 
 # (*): Additional Information Needed 
