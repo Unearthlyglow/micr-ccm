@@ -7,25 +7,17 @@
 
 # The Musical Instrument Compendium & Registry 
 
-# (*): Additional Information Needed 
+## (*): Additional Information Needed 
 
+## MuseRegistry(*)
 
-# MuseRegistry(*)
-
-
-
-# MuseRegistry(*)
-
-
-# Dependencies(*)
+## Dependencies(*)
 
 <!-- Coming Up -->
 
-# Setup
+## Setup
 
-
-
-# Muse Registry
+## Muse Registry
  
 
 <!-- `sudo make setup` -->
