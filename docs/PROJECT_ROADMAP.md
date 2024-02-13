@@ -11,7 +11,6 @@ Intro:  Coming soon....
 -   [ ] High level info for main functions listed in CODE(place on top of functions for documentation) and [README.md](./README.md)
 -   [ ] How to Contribute doc 
 -   [ ] README doc
--   [ ] Main Branch Protection
 -   [ ] KIM Maintainer Page prepared
 -   [ ] Ideas for authenticating serial# registration
 -   [ ] Make sure the webapp has pages that lists all of the info from the MD files.
