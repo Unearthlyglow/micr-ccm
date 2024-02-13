@@ -5,7 +5,7 @@
 
 [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.MD) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE)
 
-
+# The Musical Instrument Compendium & Registry 
 
 # (*): Additional Information Needed 
 
