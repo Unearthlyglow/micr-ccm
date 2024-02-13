@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
 
-[Code of Conduct](./CODE_OF_CONDUCT.md) [How to Contribute](./HOW_TO_CONTRIBUTE.md)
+[Code of Conduct](./CODE_OF_CONDUCT.md) || [How to Contribute](./HOW_TO_CONTRIBUTE.md) || [Contributors](./CONTRIBUTORS.md) || [Governance](./GOVERNANCE.md) || [Software License](./LICENSE)
 
 
 
