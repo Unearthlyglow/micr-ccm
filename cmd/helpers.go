@@ -14,9 +14,9 @@ func (app *application) serverError(w http.ResponseWriter, r *http.Request, err 
 	var (
 		method = r.Method
 		uri    = r.URL.RequestURI()
-		  // Use debug.Stack() to get the stack trace. This returns a byte slice, which
-        // we need to convert to a string so that it's readable in the log entry.
-		trace  = string(debug.Stack())
+		// Use debug.Stack() to get the stack trace. This returns a byte slice, which
+		// we need to convert to a string so that it's readable in the log entry.
+		trace = string(debug.Stack())
 	)
 
 	app.logger.Error(err.Error(), "method", method, "uri", uri, "trace", trace)
@@ -36,3 +36,5 @@ func (app *application) clientError(w http.ResponseWriter, status int) {
 func (app *application) notFound(w http.ResponseWriter) {
 	app.clientError(w, http.StatusNotFound)
 }
+
+//Poof
