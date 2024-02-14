@@ -1,4 +1,5 @@
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Award/micr/sveltego/Mario_Is_Missing_cover.jpg?version%3D1707930170052)
+![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/mario.jpg?raw=true) 
+Working on adding images to md files.
 
 ![Go Version](https://img.shields.io/badge/go%20version-%3E=1.20-61CFDD.svg?style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
@@ -21,6 +22,6 @@
 
 <!-- `sudo make setup` -->
 
-![alt text](https://github.com/Unearthlyglow/sveltego/blob/main/mario.jpg?raw=true)
+
 
 
