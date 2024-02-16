@@ -2,7 +2,7 @@
 name: 'Bug Report'
 about: Reporting a Bug (Issue With The Software)
 title: 'Bug Report: <Title Here>'
-labels: 'enhancement'
+labels: 'bug'
 assignees: Unearthlyglow
 
 ---
