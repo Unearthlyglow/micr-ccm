@@ -1,14 +1,11 @@
 ---
 name: 'Feature Request'
 about: Suggest an idea for this project
-title: 'Feature/Enhancement Request'
+title: 'Feature/Enhancement Request: <Title Here>'
 labels: 'enhancement'
 assignees: Unearthlyglow
 
 ---
-
-Just do your best to fll out the fields below.
-
 ## Summary
 
 <!-- One paragraph explanation of the feature. -->
