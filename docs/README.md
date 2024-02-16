@@ -23,5 +23,4 @@
 <!-- `sudo make setup` -->
 
 
-Added image...
-
+github_changelog_generator -u github_unearthlyglow -p svletego
