@@ -11,15 +11,15 @@
 # <div align="center">The MICR ReadMe
 
 **Table of contents**  
-<div align="center">[Intro](#intro)  
-<div align="center">[Leadership & Governance](#governance)  
-<div align="center">[What is The MICR](#what)
-<div align="center">[Why Create It?](#why)  
-<div align="center">[Roadmap](#roadmap)  
-<div align="center">[How To Contribute](#how)
-<div align="center">[Installing & Working With Source Code](#installing-locally)  
-<div align="center">[Working With Tests](#working-with-tests)  
-<div align="center">[License Info](#license)
+#### <div align="center">[Intro](#intro)  
+#### <div align="center">[Leadership & Governance](#governance)  
+#### <div align="center">[What is The MICR](#what)
+#### <div align="center">[Why Create It?](#why)  
+#### <div align="center">[Roadmap](#roadmap)  
+#### <div align="center">[How To Contribute](#how)
+#### <div align="center">[Installing & Working With Source Code](#installing-locally)  
+#### <div align="center">[Working With Tests](#working-with-tests)  
+#### <div align="center">[License Info](#license)
 
 <a id="intro"></a>
 ## Intro
