@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Ask a question
+    url: https://github.com/Unearthlyglow/sveltego/discussions/new?category=q-a
+    about:  Ask and discuss questions with other MICR community members.
+
+  - name: 📓 Reference
+    url: [NEED || TASK}
+    about: Review the GO code asssociated with the backend logic.
+
