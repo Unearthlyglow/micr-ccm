@@ -10,16 +10,16 @@
 
 # <div align="center"> The MICR ReadMe
 
-###  <div align="center">**Table of contents**  
-### [Intro](#intro)  
-### [Leadership & Governance](#governance)  
-### [What is The MICR](#what)
-### [Why Create It?](#why)  
-### [Roadmap](#roadmap)  
-### [How To Contribute](#how)
-### [Installing & Working With Source Code](#installing-locally)  
-### [Working With Tests](#working-with-tests)  
-### [License Info](#license)
+**Table of contents**  
+ [Intro](#intro)  
+[Leadership & Governance](#governance)  
+ [What is The MICR](#what)
+[Why Create It?](#why)  
+[Roadmap](#roadmap)  
+ [How To Contribute](#how)
+ [Installing & Working With Source Code](#installing-locally)  
+[Working With Tests](#working-with-tests)  
+[License Info](#license)
 
 <a id="intro"></a>
 ## Intro
