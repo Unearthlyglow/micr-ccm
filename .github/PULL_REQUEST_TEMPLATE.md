@@ -17,6 +17,5 @@ want you to back out of sending a pull request just because you feel overwhelmed
 
 * **Other information**:
 
-**PLEASE REMOVE THE ABOVE TEMPLATE BEFORE SUBMITTING**
 
 
