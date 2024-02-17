@@ -1,27 +1,22 @@
 ## Pull Request template
-Please, go through these steps before you submit a PR.
+Please, go through these steps before you submit a PR. Don't sweat too much about not fufilling everything below, I don't 
+want you to back out of sending a pull request just because you feel overwhelmed by the below requirements.
 
-1. Make sure that your PR is not a duplicate.
-2. If not, then make sure that:
+* **Please check if the PR fulfills these requirements**
+- [ ] The commit message follows our guidelines
+- [ ] Tests for the changes have been added (for bug fixes / features)
+- [ ] Docs have been added / updated (for bug fixes / features)
 
-    a. You have done your changes in a separate branch. Branches MUST have descriptive names that start with either the `fix/` or `feature/` prefixes. Good examples are: `fix/signin-issue` or `feature/issue-templates`.
+* **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
 
-    b. You have a descriptive commit message with a short title (first line).
+* **What is the current behavior?** (You can also link to an open issue here)
 
-    c. You have only one commit (if not, squash them into one commit).
+* **What is the new behavior (if this is a feature change)?**
 
-    d. `npm test` doesn't throw any error. If it does, fix them first and amend your commit (`git commit --amend`).
+* **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
 
-3. **After** these steps, you're ready to open a pull request.
+* **Other information**:
 
-    a. Your pull request MUST NOT target the `master` branch on this repository. You probably want to target `staging` instead.
+**PLEASE REMOVE THE ABOVE TEMPLATE BEFORE SUBMITTING**
 
-    b. Give a descriptive title to your PR.
 
-    c. Provide a description of your changes.
-
-    d. Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
-
-IMPORTANT: Please review the [CONTRIBUTING.md](../CONTRIBUTING.md) file for detailed contributing guidelines.
-
-**PLEASE REMOVE THIS TEMPLATE BEFORE SUBMITTING**
