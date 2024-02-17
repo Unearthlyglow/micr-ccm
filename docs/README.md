@@ -6,11 +6,11 @@
 
 [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
 
-<div align="center"> [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) </div>
+[Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) 
 
-## <div align="center">The MICR ReadMe
+# <div align="center">The MICR ReadMe
 
-**Table of contents**  
+## **Table of contents**  
 #### <div align="center">[Intro](#intro)  
 #### <div align="center">[Leadership & Governance](#governance)  
 #### <div align="center">[What is The MICR](#what)
