@@ -10,7 +10,7 @@
 
 # <div align="center">The MICR ReadMe
 
-## **Table of contents**  
+### <div align="center"> **Table of contents**  
 #### <div align="center">[Intro](#intro)  
 #### <div align="center">[Leadership & Governance](#governance)  
 #### <div align="center">[What is The MICR](#what)
