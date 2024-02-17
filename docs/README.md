@@ -10,17 +10,23 @@
 
 # The Musical Instrument Compendium & Registry 
 
-## (*): Additional Information Needed 
+## Intro
 
-## MuseRegistry(*)
+## Leadership & Governance
 
-## Dependencies(*)
+## What is The MICR
 
-<!-- Coming Up -->
+## Why Create it?
 
-## Setup
+## Roadmap
 
-<!-- `sudo make setup` -->
+## How To Contribute 
+
+## Installing and Working Locally With The Source Code
+
+## Working With Tests
+
+## License Info 
 
 
 
