@@ -1,7 +1,7 @@
 ---
 name: 'Feature Request'
 about: Suggest an idea for this project
-title: 'Enhancement Request: <Title Here>'
+title: 'Feature Request: <Title Here>'
 labels: 'enhancement'
 assignees: Unearthlyglow
 
