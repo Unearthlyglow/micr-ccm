@@ -1,7 +1,7 @@
 ---
 name: 'Feature Request'
 about: Suggest an idea for this project
-title: 'Feature/Enhancement Request: <Title Here>'
+title: 'Enhancement Request: <Title Here>'
 labels: 'enhancement'
 assignees: Unearthlyglow
 
@@ -21,3 +21,6 @@ assignees: Unearthlyglow
 ## Additional context
 
 <!-- Add any other context or screenshots about the feature request here. -->
+
+---
+Don't worry about having info for each of the sections, just do your best and delete sections that you don't utilize. 
