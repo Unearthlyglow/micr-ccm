@@ -33,7 +33,7 @@ Come on now, before you submit a bug report, remember it's little ole Award M wh
 
 <!-- What percentage of the time does it reproduce? -->
 
-#### Versions:
+#### Affected Version(s):
 
 <!-- TBD: In the root folder within the terminal, type in --v  -->
 
