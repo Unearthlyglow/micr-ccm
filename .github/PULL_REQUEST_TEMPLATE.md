@@ -1,21 +1,27 @@
 ## Pull Request template
-Please, go through these steps before you submit a PR. Don't sweat too much about not fufilling everything below, I don't 
-want you to back out of sending a pull request just because you feel overwhelmed by the below requirements.
+###### Please go through these steps before you submit a PR. Don't sweat too much about not filling each section out, I don't want you to back out of sending a pull request just because you feel overwhelmed by the below requirements. Definitly remove sections of the template you don't utilize as well as this information before submitting the PR. See [Issue#]() for an example.
+---
 
-* **Please check if the PR fulfills these requirements**
+**_Please check if the PR fulfills these requirements_**
+- [x] Comes From The Heart 
 - [ ] The commit message follows our guidelines
-- [ ] Tests for the changes have been added (for bug fixes / features)
-- [ ] Docs have been added / updated (for bug fixes / features)
+- [ ] Tests for the changes have been added (for bug fixes / features) if applicable
+- [ ] Docs have been added / updated (for bug fixes / features) if applicable 
 
-* **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
+### _What kind of change does this PR introduce?_ (Bug fix, feature, docs update, ...)
+  > Text Here
 
-* **What is the current behavior?** (You can also link to an open issue here)
+### _What is the current behavior?_ (You can also link to an open issue here)
+ > Text Here
 
-* **What is the new behavior (if this is a feature change)?**
+### _What is the new behavior_ (if this is a feature change)?**
+ > Text Here
 
-* **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
+### _Does this PR introduce a breaking change?_ (What changes might users need to make in their application due to this PR?)
+ > Text Here
 
-* **Other information**:
+### _Other information_:
+ > Text Here
 
 
 
