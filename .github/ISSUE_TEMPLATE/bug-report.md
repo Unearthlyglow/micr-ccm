@@ -35,7 +35,7 @@ Come on now, before you submit a bug report, remember it's little ole Award M wh
 
 #### Versions:
 
-<!-- You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running. -->
+<!-- TBD: In the root folder within the terminal, type in --v  -->
 
 #### Additional Information:
 
