@@ -7,12 +7,12 @@
 
 [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
 
-Take Your Time <div align="center"> [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) 
+*"Take Your Time"* <div align="center"> [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) 
 
 
 
 
-### <div align="center"> **Table of contents**  
+## <div align="center"> Table of contents
 #### <div align="center">[Intro](#intro)  
 #### <div align="center">[Leadership & Governance](#governance)  
 #### <div align="center">[What is The MICR](#what)
