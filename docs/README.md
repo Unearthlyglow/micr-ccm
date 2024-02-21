@@ -1,5 +1,5 @@
 
-![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/mario.jpg?raw=true)
+![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/readme-banner.svg?raw=true)
 
 ![Go Version](https://img.shields.io/badge/go%20version-%3E=1.20-61CFDD.svg?style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
