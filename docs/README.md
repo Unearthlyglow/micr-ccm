@@ -34,7 +34,7 @@
 [Governance Document](./GOVERNANCE.md)
 </div></b>
 
-At this time since it’s just me(Award Malisi), I will be going with the ABDFL(Alleged-Benevolent Dictator For Life) for the time being. If people join up with me on this project, I’ll definitely entertain the idea of a different leadership structure. I am more along the lines of someone who believes one should be skillful in leading and following.
+> At this time since it’s just me(Award Malisi), I will be going with the ABDFL(Alleged-Benevolent Dictator For Life) for the time being. If people join up with me on this project, I’ll definitely entertain the idea of a different leadership structure. I am more along the lines of someone who believes one should be skillful in leading and following.
 
 <a id="what"></a>
 ## What is The MICR
