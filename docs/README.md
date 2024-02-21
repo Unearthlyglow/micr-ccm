@@ -57,5 +57,13 @@
 <a id="license"></a>
 ## License Info 
 
+<b><div align="right">
+[License](./LICENSE)
+</div></b>
+
+> This project is licensed under the GNU GENERAL PUBLIC LICENSE(version 3),
+> you can review it [here](./LICENSE)
+> I will update this section in the near future as to why I chose the GNU GPLv3 license. 
+
 
 
