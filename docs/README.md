@@ -36,6 +36,8 @@
 
 > At this time since it’s just me(Award Malisi), I will be going with the ABDFL(Alleged-Benevolent Dictator For Life) for the time being. If people join up with me on this project, I’ll definitely entertain the idea of a different leadership structure. I am more along the lines of someone who believes one should be skillful in leading and following.
 
+![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/ccmlogo.png?raw=true)
+
 <a id="what"></a>
 ## What is The MICR
 
@@ -44,6 +46,8 @@
 
 <a id="roadmap"></a>
 ## Roadmap
+> At this time we do not have a traditional Roadmap.md that follows th
+For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
 
 <a id="how"></a>
 ## How To Contribute 
