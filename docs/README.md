@@ -1,3 +1,4 @@
+# The MICR ReadMe
 
 ![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/readme-banner.jpg?raw=true)
 
@@ -6,10 +7,9 @@
 
 [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
 
-[Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) 
+Take Your Time <div align="center"> [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) 
 
 
-# The MICR ReadMe
 
 
 ### <div align="center"> **Table of contents**  
