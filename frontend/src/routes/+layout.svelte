@@ -10,7 +10,7 @@
 
 <svelte:head>
 	<meta name="google" content="notranslate" />
-	<meta title="Muse DB" />
+	<meta title="The MICR"/>
 </svelte:head>
 
 <div class="container-fluid">
@@ -24,7 +24,8 @@
 
 <style lang="scss">
 	
-	@import './frontend/src/lib/styles/global.scss';
+	
+	@import '$lib/styles/global.scss';
 
 	.container-fluid {
 		min-height: 100%;

@@ -39,7 +39,7 @@
 </nav>
 
 <style lang="scss">
-	@import './frontend/src/lib/styles/global.scss';
+	@import '$lib/styles/global.scss';
 
 	nav {
 		

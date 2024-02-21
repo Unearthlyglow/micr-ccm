@@ -20,7 +20,8 @@
 {/if}
 
 <style lang="scss">
-	@import './frontend/src/lib/styles/global.scss';
+	@import '$lib/styles/global.scss';
+	
 	.menu {
 		display: block;
 		margin-top: 2rem;
