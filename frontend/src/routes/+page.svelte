@@ -34,7 +34,7 @@
 </div>
 
 <style lang="scss">
-	@import '$lib/styles/global.scss';
+	@import './frontend/src/lib/styles/global.scss';
 
 .go--payload {
   margin: 3rem;

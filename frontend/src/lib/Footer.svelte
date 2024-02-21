@@ -101,7 +101,7 @@
 
 	
 
-	@import '$lib/styles/global.scss';
+@import './frontend/src/lib/styles/global.scss';
 	.footer {
 		background-color: rgb(244, 245, 225);
 		padding-top: 2rem;

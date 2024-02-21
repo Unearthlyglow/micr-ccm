@@ -47,7 +47,7 @@
 
 <style lang="scss">
 	
-	@import '$lib/styles/global.scss';
+	@import './frontend/src/lib/styles/global.scss';
 
 	.chanda {
 		text-align: center;

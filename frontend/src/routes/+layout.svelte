@@ -23,7 +23,8 @@
 </div>
 
 <style lang="scss">
-	@import '$lib/styles/global.scss';
+	
+	@import './frontend/src/lib/styles/global.scss';
 
 	.container-fluid {
 		min-height: 100%;
