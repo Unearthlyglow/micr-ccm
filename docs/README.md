@@ -52,6 +52,11 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 <a id="how"></a>
 ## How To Contribute 
 
+<b><div align="right">
+[How To Contribute](./HOW_TO_CONTRIBUTE.md)
+</div></b>
+
+
 <a id="installing-locally"></a>
 ## Installing and Working Locally With The Source Code
 
