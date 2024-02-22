@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
 
 <!-- [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
---> Related to Issue #56 , once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. 
+ Related to Issue #56 , once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. -->
 
  <b><div align="center"></b> [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) </div>
 
