@@ -1,6 +1,6 @@
 # The MICR ReadMe <b><div align="right">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/construct.svg?raw=true)</div>
 
-![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/readme-banner.jpg?raw=true)
+![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/readme.svg?raw=true)
 
 ![Go Version](https://img.shields.io/badge/go%20version-%3E=1.20-61CFDD.svg?style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
