@@ -1,4 +1,4 @@
-# The MICR ReadMe <b><div align="right">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/construct.png?raw=true)</div>
+# The MICR ReadMe <b><div align="right">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/construct.svg?raw=true)</div>
 
 ![Mario is Missing!](https://github.com/Unearthlyglow/sveltego/blob/main/images/readme-banner.jpg?raw=true)
 
