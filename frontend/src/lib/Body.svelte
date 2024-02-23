@@ -9,13 +9,13 @@
 </script>
 
 <svelte:head>
-	<!-- <title>CCM | {$page.data.page.title}</title> -->
-	<!-- <meta name="description" content={$page.data.page.description} /> -->
+	<!-- <title>CCM | {$page.data.page.title}</title> 
+	<meta name="description" content={$page.data.page.description} />  -->
 </svelte:head>
 
 <div id="body">
 	<div class="body--inner">
-		<h1 class="header--title">Music Gear Registry</h1>
+		<h1 class="header--title">The Musical Instrument Compendium & Registry [<span>MICR</span>]</h1>
 		<div class="building-logos">
 			<img class="building-logo" alt="The project logo" src={yellowBuilding} />
 			<img class="building-logo2" alt="The project logo" src={yellowBuilding} />
@@ -54,7 +54,13 @@
 		transform: translateY(-3rem);
 	}
 
+	span { 
+		color: rgb(188, 188, 225);
+	}
+
 	#body {
+
+		
 		background-color: rgb(60, 42, 64);
 		// background-color: rgb(46, 46, 51);
 

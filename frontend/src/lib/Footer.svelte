@@ -75,13 +75,15 @@
 		<hr class="footer--hr" />
 
 		<div class="footer--ccmquote">
+		<div class="footer--images">
+			<img class="CCM-letters" src={CCMLetters} alt="CCM Letters" />
+			<p class="footer--quote">"It's (Almost) Better Than Life"</p>
+
+		<img class="footer--kryten" src={kryten} alt="Kryten" />
+
+		<img class="footer--fire" src={fire} alt="CCM Letters" />
+		</div>
 		
-				<img class="CCM-letters" src={CCMLetters} alt="CCM Letters" />
-				<p class="footer--quote">"It's (Almost) Better Than Life"</p>
-
-			<img class="footer--kryten" src={kryten} alt="Kryten" />
-
-			<img class="footer--fire" src={fire} alt="CCM Letters" />
 		</div>
 
 	
@@ -105,6 +107,11 @@
 	.footer {
 		background-color: rgb(244, 245, 225);
 		padding-top: 2rem;
+	}
+
+	.footer--images {
+		
+
 	}
 
 	.footer--above {
@@ -170,7 +177,7 @@
 	.footer--ccmquote {
 		display: flex;
 		flex-direction: column;
-		align-items: center;
+		align-items: space-around;
 		border-left: solid 1px rgb(193, 193, 213);
 		border-right: solid 1px rgb(193, 193, 213);
 		// justify-content: space-between;
