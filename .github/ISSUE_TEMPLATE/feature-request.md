@@ -16,7 +16,7 @@ assignees: Unearthlyglow
 
 ## Describe alternatives you've considered
 
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why Atom's existing customizability isn't suitable for this feature. -->
+<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why the MICR's existing customizability isn't suitable for this feature. -->
 
 ## Additional context
 
