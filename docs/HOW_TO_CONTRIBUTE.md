@@ -1,4 +1,4 @@
-[ReadMe](./README.md) · [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE)
+[ReadMe](./README.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE)
 
 # How To Contribute To The MICR
 
@@ -8,25 +8,35 @@ Hello,
 		 
 The following is a set of guidelines for contributing to **The MICR** open-source project.  These are mostly guidelines, and recommendations. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-#### Table Of Contents
+<div align="center"> 
+	
+### Table Of Contents
 
-* **[Code of Conduct](#code-of-conduct)**
+**[Code of Conduct](#code-of-conduct)**
 
-* **[I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)**
+**[I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)**
 
-* **[How Can I Contribute?](#how-can-i-contribute)**
-  * **[Reporting Bugs](#reporting-bugs)**
-  * **[Suggesting Enhancements](#suggesting-enhancements)**
-  * **[Your First Code Contribution](#your-first-code-contribution)**
-  * **[Pull Requests](#pull-requests)**
+**[How Can I Contribute?](#how-can-i-contribute)**
 
-* **[Styleguides](#styleguides)**
-  * **[Git Commit Messages](#git-commit-messages)**
-  * **[Documentation Styleguide](#documentation-styleguide)**
+**[Reporting Bugs](#reporting-bugs)**
 
-* **[Additional Notes](#additional-notes)**
-  * **[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
+**[Suggesting Enhancements](#suggesting-enhancements)**
 
+**[Your First Code Contribution](#your-first-code-contribution)**
+
+**[Pull Requests](#pull-requests)**
+
+**[Styleguides](#styleguides)**
+
+##### **[Git Commit Messages](#git-commit-messages)**
+
+##### **[Documentation Styleguide](#documentation-styleguide)**
+
+**[Additional Notes](#additional-notes)**
+
+**[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
+   
+</div>
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
