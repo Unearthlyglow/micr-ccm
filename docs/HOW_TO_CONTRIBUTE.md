@@ -28,10 +28,6 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Styleguides](#styleguides)**
 
-##### **[Git Commit Messages](#git-commit-messages)**
-
-##### **[Documentation Styleguide](#documentation-styleguide)**
-
 **[Additional Notes](#additional-notes)**
 
 **[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
