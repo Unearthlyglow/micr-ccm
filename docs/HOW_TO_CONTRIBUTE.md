@@ -1,4 +1,4 @@
-[ReadMe](./README.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE)
+[ReadMe](./README.md) · [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE)
 
 # How To Contribute To The MICR
 
@@ -7,6 +7,8 @@ Hello,
 		 I hope you're well 
 		 
 The following is a set of guidelines for contributing to **The MICR** open-source project.  These are mostly guidelines, and recommendations. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
+&nbsp;
 
 <div align="center"> 
 	
@@ -34,11 +36,15 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
    
 </div>
 
+&nbsp;
+
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
 
-## I don't want to read this whole thing I just have a question
+&nbsp;
+
+## TLDR - I just have a question
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
@@ -46,9 +52,15 @@ You can submit a question through the discussions tab, or you can click **[here]
 
 **[!NEED]** I will also look into setting up an email address so people can have this option as well. 
 
+&nbsp;
+
 ## How Can I Contribute?
 
-### Please Read First
+<div align="center">
+	
+ ### Please Read First
+ 
+</div>
 
 >Don't get too caught up in ALL of the details of your idea whenever the moment of inspiration comes upon you. If you get too caught up in trying to make everything make sense immediately, you may not submit your idea at all. Remember, do your best and try to have some gawd damn fun. 
 > ---
@@ -61,7 +73,9 @@ Before submitting a new **issue** be, sure to check the [Issues](https://github.
 
 Before submitting a new **pull request** be sure to check the [Pull Requests](https://github.com/Unearthlyglow/sveltego/pulls) tab to check to see if anyone else is working on something you're thinking of contributing. 
 
-### Reporting Bugs
+&nbsp;
+
+## Reporting Bugs
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
 
@@ -69,13 +83,18 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
-#### Before Submitting A Bug Report
+---
+
+### Before Submitting A Bug Report
 
 **[!NEED || 1. FAQ Document 2. Link for FAQ Doc]**
 * **Check** the **[FAQ]([!NEED])** for a list of common questions and problems.
 
 * **Perform a [cursory search](https://github.com/Unearthlyglow/sveltego/issues?q=is%3Aopen+is%3Aissue+label%3Abug)** to see if the problem has already been reported. If it has and the issue is **still open**, add a comment to the existing issue instead of opening a new one.
-#### How Do I Submit A (Good) Bug Report?
+
+---
+	
+### How Do I Submit A (Good) Bug Report?
 
 - Navigate to the **[Issues]()** tab
 - Select **New Issue**
@@ -83,17 +102,20 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 **Screenshot: [!NEED || Link Screenshot**
 
-
 You can also retrieve the Bug Report template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/bug-report.md?plain=1)**. 
 
 
-### Suggesting Enhancements/Features
+&nbsp;
+
+## Suggesting Enhancements/Features
 
 This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
 Before creating enhancement suggestions, please check the **[Issues](https://github.com/Unearthlyglow/sveltego/issues)** tab as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible, including the steps that you imagine you would take if the feature you're requesting existed.
 
-#### How Do I Submit A (Good) Enhancement Suggestion?
+--- 
+
+### How Do I Submit A (Good) Enhancement Suggestion?
 
 - Navigate to the **[Issues]()** tab
 - Select **New Issue**
@@ -104,12 +126,15 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 
 You can also retrieve the Feature/Enhancement template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/feature-request.md)**. 
 
+&nbsp;
 
-### Local development
+## Local development
 
 **[!NEED || Local Dev Set-up FAQ]**
 
-### Pull Requests
+&nbsp;
+
+## Pull Requests
 
 The process described here has several goals:
 
@@ -125,30 +150,47 @@ Please follow these steps to have your contribution considered by the maintainer
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
+&nbsp;
+
 ## Styleguides
+ 
+### Git Commit Messages 🥣
 
-### Git Commit Messages
+Use the present tense ("Add feature" not "Added feature")
 
-* Use the present tense ("Add feature" not "Added feature")
-* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-* Limit the first line to 72 characters or less
-* Reference issues and pull requests liberally after the first line
+Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
 
+Limit the first line to 72 characters or less
 
-### GO Style Guide
+Reference issues and pull requests liberally after the first line
+
+---
+
+### GO Style Guide 👚
+
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
-### Linters**
-- **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
-- **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
-#### Documentation Styleguide
+---
+ 
+### Linters 🪗
+
+ **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
+ 
+ **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
+
+ --- 
+### Documentation Styleguide 📖
+
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
+&nbsp;
+ 
 ## Additional Notes
 
 ### Issue and Pull Request Labels
 **[!NEED]**
 
+&nbsp;
 
 ## Thank you to 'Atom'
 
