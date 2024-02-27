@@ -4,8 +4,12 @@
 
 Hello, 
 
-		 I hope you're well 
-		 
+<div align="center">
+	
+		  I hope you're well 
+
+</div>
+
 The following is a set of guidelines for contributing to **The MICR** open-source project.  These are mostly guidelines, and recommendations. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 &nbsp;
