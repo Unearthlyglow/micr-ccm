@@ -27,6 +27,9 @@
 <a id="intro"></a>
 ## Intro
 
+If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://unearthlyglow.github.io/micr-tome/chapter_1.html). 
+
+
 <a id="governance"></a>
 ## Leadership & Governance
 
