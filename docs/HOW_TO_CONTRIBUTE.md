@@ -22,8 +22,6 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Suggesting Enhancements](#suggesting-enhancements)**
 
-**[Your First Code Contribution](#your-first-code-contribution)**
-
 **[Pull Requests](#pull-requests)**
 
 **[Styleguides](#styleguides)**
@@ -31,6 +29,8 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 **[Additional Notes](#additional-notes)**
 
 **[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
+
+**[Thank You To Atom](#thank-you-to-atom)**
    
 </div>
 
