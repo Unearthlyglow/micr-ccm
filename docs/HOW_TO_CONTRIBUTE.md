@@ -42,13 +42,13 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 &nbsp;
 
-## Code of Conduct
+## Code of Conduct 🏗️
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
 
 &nbsp;
 
-## TLDR - I just have a question
+## TLDR - I just have a question ❔
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
@@ -58,7 +58,7 @@ You can submit a question through the discussions tab, or you can click **[here]
 
 &nbsp;
 
-## How Can I Contribute?
+## How Can I Contribute? 🪄
 
 <div align="center">
 	
@@ -79,7 +79,7 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 &nbsp;
 
-## Reporting Bugs
+## Reporting Bugs 🐛
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
 
@@ -111,7 +111,7 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 &nbsp;
 
-## Suggesting Enhancements/Features
+## Suggesting Enhancements/Features 🥊
 
 This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
@@ -132,13 +132,13 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
-## Local development
+## Local development 🧭
 
 **[!NEED || Local Dev Set-up FAQ]**
 
 &nbsp;
 
-## Pull Requests
+## Pull Requests 🚂
 
 The process described here has several goals:
 
@@ -156,9 +156,9 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 &nbsp;
 
-## Styleguides
+## Styleguides 🧑‍🎨
  
-### Git Commit Messages 🥣
+### Git Commit Messages 
 
 Use the present tense ("Add feature" not "Added feature")
 
@@ -170,13 +170,13 @@ Reference issues and pull requests liberally after the first line
 
 ---
 
-### GO Style Guide 👚
+### GO Style Guide 
 
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
 ---
  
-### Linters 🪗
+### Linters 
 
  **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
  
