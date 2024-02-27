@@ -183,7 +183,7 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
  **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
 
  --- 
-### Documentation Styleguide 📖
+### Documentation Styleguide  
 
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
