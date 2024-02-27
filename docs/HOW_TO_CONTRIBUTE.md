@@ -37,6 +37,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 **[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
    
 </div>
+
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
@@ -141,10 +142,10 @@ While the prerequisites above must be satisfied prior to having your pull reques
 ### GO Style Guide
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
-### Linters
+### Linters**
 - **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
 - **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
-### Documentation Styleguide
+#### Documentation Styleguide
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 ## Additional Notes
