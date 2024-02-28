@@ -50,7 +50,7 @@ This project and everyone participating in it is governed by the **[MICR Code of
 &nbsp;
 
 ❔
-## TLDR - I just have a question! 
+## TLDR I just have a question! 
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
