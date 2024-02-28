@@ -18,7 +18,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 	
 ### Table Of Contents
 
-**[Code of Conduct](#code-of-conduct)**
+**[Code of Conduct](#Code-of-Conduct)**
 
 **[TLDR - I just have a question!](#TLDR-i-just-have-a-question)**
 
