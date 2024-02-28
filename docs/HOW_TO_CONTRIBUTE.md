@@ -109,8 +109,6 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 - Select **New Issue**
 - Select **Get Started** under  **Bug Report** 
 
-**Screenshot: [!NEED || Link Screenshot**
-
 You can also retrieve the Bug Report template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/bug-report.md?plain=1)**. 
 
 <b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
@@ -132,9 +130,6 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 - Navigate to the **[Issues]()** tab
 - Select **New Issue**
 - Select **Get Started** under  **Bug Report** 
-
-**Screenshot: [!NEED || Link Screenshot]**
-
 
 You can also retrieve the Feature/Enhancement template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/feature-request.md)**. 
 
@@ -201,7 +196,8 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 &nbsp;
- 
+
+📔
 ## Additional Notes
 
 ### Issue and Pull Request Labels
@@ -209,6 +205,7 @@ Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki
 
 &nbsp;
 
+🌞
 ## Thank you to 'Atom'
 
 Thank you to all the contributors who put work into the  'Atom'  Contribution guide. I appreciate all the hard work that was put into it. The MICR will be another entity that will carry on your torch respectfully. 
