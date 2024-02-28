@@ -184,7 +184,10 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 &nbsp;
 
+<div align="right"> 
 🧑‍🎨
+</div>
+
 ## Styleguides 
  
 ### Git Commit Messages 
@@ -218,7 +221,10 @@ Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki
 
 &nbsp;
 
+<div align="right"> 
 📔
+</div>
+
 ## Additional Notes
 
 ### Issue and Pull Request Labels
@@ -226,7 +232,10 @@ Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki
 
 &nbsp;
 
+<div align="right"> 
 🌞
+</div>
+
 ## Thank you to 'Atom'
 
 Thank you to all the contributors who put work into the  'Atom'  Contribution guide. I appreciate all the hard work that was put into it. The MICR will be another entity that will carry on your torch respectfully. 
