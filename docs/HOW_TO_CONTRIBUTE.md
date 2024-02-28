@@ -87,7 +87,8 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
 
-Before creating bug reports, please check [this list](https://github.com/Unearthlyglow/sveltego/issues?q=is%3Aopen+is%3Aissue+label%3Abug) as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible. **[!NEED]** Fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps us resolve issues faster.
+Before creating bug reports, please check [this list](https://github.com/Unearthlyglow/sveltego/issues?q=is%3Aopen+is%3Aissue+label%3Abug) as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible. 
+**[!NEED]** Fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
