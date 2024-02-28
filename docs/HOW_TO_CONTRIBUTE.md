@@ -20,7 +20,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Code of Conduct](#code-of-conduct)**
 
-**[TLDR I just have a question!](#tldr-i-just-have-a-question)**
+**[TLDR I just have a question!](#tldr-i-just-have-a-question!)**
 
 **[How Can I Contribute?](#how-can-i-contribute)**
 
@@ -50,7 +50,7 @@ This project and everyone participating in it is governed by the **[MICR Code of
 &nbsp;
 
 ❔
-## TLDR - I just have a question 
+## TLDR - I just have a question! 
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
