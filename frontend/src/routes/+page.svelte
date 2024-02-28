@@ -39,9 +39,6 @@
 .go--payload {
   margin: 3rem;
 }
-  div {
-    /* background-color: blue; */
-  }
 
   
 </style>

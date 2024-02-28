@@ -115,10 +115,8 @@
 </footer>
 
 <style lang="scss" global>
-
-	
-
 @import '$lib/styles/global.scss';
+
 	.footer {
 		background-color: rgb(244, 245, 225);
 		padding-top: 2rem;
@@ -298,7 +296,26 @@
 		padding: 1rem;
 	}
 
-	@media only screen and (max-width: 800px) {
+
+	@media only screen and (max-width: 920px) {
+
+.footer--images {
+	display: block;
+	text-align: center;
+}
+
+.footer--quote {
+display: block;
+}
+
+.footer--kryten-fire {
+display: flex;
+justify-content: space-around;
+}
+
+}
+
+@media only screen and (max-width: 800px) {
 		.painting1 {
 			max-height: 10rem;
 			max-width: 10rem;
@@ -328,7 +345,7 @@
 		}
 	}
 
-	@media only screen and (max-width: 548px) {
+@media only screen and (max-width: 548px) {
 		.footer--above > ul > li {
 			font-size: 0.65rem;
 			color: rgb(13, 81, 90);
@@ -339,38 +356,14 @@
 		.footer--above > ul > a > li {
 			font-size: 0.65rem;
 			color: rgb(13, 81, 90);
-			list-style-type: katakana;
+	
 			margin-left: 1.5rem;
 		}
 
 	
 	}
 
-	@media only screen and (max-width: 920px) {
-
-		.footer--images {
-			display: block;
-			text-align: center;
-	}
-
-	.footer--quote {
-		display: block;
-	}
-
-	.footer--kryten-fire {
-		display: flex;
-		justify-content: space-around;
-	}
-
-}
-
-
-
-
-
-
-
-	@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 450px) {
 		.footer--images {
 			text-align: center;
 	}
@@ -382,6 +375,5 @@
 	.footer--kryten-fire {
 		display: block;
 	}
-
-	}
+}
 </style>
