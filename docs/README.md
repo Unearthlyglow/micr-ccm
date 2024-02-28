@@ -20,15 +20,16 @@
 #### <div align="center">[Why Create It?](#why)  
 #### <div align="center">[Roadmap](#roadmap)  
 #### <div align="center">[How To Contribute](#how)
-#### <div align="center">[Installing & Working With Source Code](#installing-locally)  
-#### <div align="center">[Working With Tests](#working-with-tests)  
 #### <div align="center">[License Info](#license)
 
 <a id="intro"></a>
 ## Intro
 
+<div align="center">
+ 
 If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://unearthlyglow.github.io/micr-tome/chapter_1.html). 
 
+</div>
 
 <a id="governance"></a>
 ## Leadership & Governance
@@ -60,12 +61,6 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 [How To Contribute](./HOW_TO_CONTRIBUTE.md)
 </div></b>
 
-
-<a id="installing-locally"></a>
-## Installing and Working Locally With The Source Code
-
-<a id="working-with-tests"></a>
-## Working With Tests
 
 <a id="license"></a>
 ## License Info 
