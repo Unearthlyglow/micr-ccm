@@ -23,7 +23,7 @@
 #### <div align="center">[License Info](#license)
 
 <a id="intro"></a>
-## Intro
+## Intro <div align="right"> 🫀 </div>
 
 <div align="center">
  
@@ -34,7 +34,7 @@ If you would rather read these documents in a more "book" style, you can read th
 &nbsp;
 
 <a id="governance"></a>
-## Leadership & Governance
+## Leadership & Governance <div align="right"> 🛋️ </div>
 
 
 <b><div align="right" >
@@ -48,17 +48,17 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 &nbsp;
 
 <a id="what"></a>
-## What is The MICR
+## What is The MICR <div align="right"> 📙 </div>
 
 &nbsp;
 
 <a id="why"></a>
-## Why Create it?
+## Why Create it? <div align="right"> ❤️‍🔥 </div>
 
 &nbsp;
 
 <a id="roadmap"></a>
-## Roadmap
+## Roadmap <div align="right"> 🗺️ </div>
 
 At this time we do not have a traditional Roadmap.md that follows th
 For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
@@ -66,7 +66,7 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 &nbsp;
 
 <a id="how"></a>
-## How To Contribute 
+## How To Contribute <div align="right"> 🧑‍🤝‍🧑 </div>
 
 <b><div align="right">
 [How To Contribute](./HOW_TO_CONTRIBUTE.md)
@@ -75,7 +75,7 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 &nbsp;
 
 <a id="license"></a>
-## License Info 
+## License Info <div align="right"> ⚓ </div>
 
 <b><div align="right">
 [License](./LICENSE)
