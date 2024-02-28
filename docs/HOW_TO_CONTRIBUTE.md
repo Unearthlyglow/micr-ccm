@@ -42,14 +42,20 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 &nbsp;
 
+<div align="right"> 
 🏗️ 
+</div>
+
 ## Code of Conduct  
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
 
 &nbsp;
 
+<div align="right"> 
 ❔
+</div>
+
 ## TLDR I just have a question! 
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
@@ -60,7 +66,10 @@ You can submit a question through the discussions tab, or you can click **[here]
 
 &nbsp;
 
+<div align="right"> 
 🪄
+</div>
+
 ## How Can I Contribute? 
 
 <div align="center">
@@ -82,7 +91,10 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 &nbsp;
 
+<div align="right"> 
 🐛
+</div>
+
 ## Reporting Bugs 
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
@@ -116,7 +128,10 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 &nbsp;
 
+<div align="right"> 
 🥊
+</div>
+
 ## Suggesting Enhancements/Features 
 
 This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
@@ -137,14 +152,20 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
+<div align="right"> 
 🧭
+</div>
+
 ## Local development 
 
 **[!NEED || Local Dev Set-up FAQ]**
 
 &nbsp;
 
+<div align="right"> 
 🚂
+</div>
+
 ## Pull Requests 
 
 The process described here has several goals:
