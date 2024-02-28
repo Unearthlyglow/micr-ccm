@@ -20,7 +20,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Code of Conduct](#code-of-conduct)**
 
-**[I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)**
+**[TLDR - I just have a question!](#TLDR-i-just-have-a-question)**
 
 **[How Can I Contribute?](#how-can-i-contribute)**
 
