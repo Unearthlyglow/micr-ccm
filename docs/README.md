@@ -60,6 +60,10 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 <a id="roadmap"></a>
 ## Roadmap <div align="right"> 🗺️ </div>
 
+<b><div align="right" >
+[Project Roadmap Document](./PROJECT_ROADMAP.md)
+</div></b>
+
 At this time we do not have a traditional Roadmap.md that follows th
 For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
 
@@ -69,7 +73,7 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 ## How To Contribute <div align="right"> 🧑‍🤝‍🧑 </div>
 
 <b><div align="right">
-[How To Contribute](./HOW_TO_CONTRIBUTE.md)
+[How To Contribute Document](./HOW_TO_CONTRIBUTE.md)
 </div></b>
 
 &nbsp;
