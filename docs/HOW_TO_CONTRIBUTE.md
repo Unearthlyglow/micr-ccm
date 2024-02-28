@@ -113,6 +113,8 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 You can also retrieve the Bug Report template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/bug-report.md?plain=1)**. 
 
+<b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
+
 
 &nbsp;
 
@@ -135,6 +137,8 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 
 
 You can also retrieve the Feature/Enhancement template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/feature-request.md)**. 
+
+<b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-feature.png?raw=true)</div>
 
 &nbsp;
 
