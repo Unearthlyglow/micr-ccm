@@ -31,6 +31,8 @@ If you would rather read these documents in a more "book" style, you can read th
 
 </div>
 
+&nbsp;
+
 <a id="governance"></a>
 ## Leadership & Governance
 
@@ -39,20 +41,29 @@ If you would rather read these documents in a more "book" style, you can read th
 [Governance Document](./GOVERNANCE.md)
 </div></b>
 
-> At this time since it’s just me(Award Malisi), I will be going with the ABDFL(Alleged-Benevolent Dictator For Life) for the time being. If people join up with me on this project, I’ll definitely entertain the idea of a different leadership structure. I am more along the lines of someone who believes one should be skillful in leading and following.
+At this time since it’s just me(Award Malisi), I will be going with the ABDFL(Alleged-Benevolent Dictator For Life) for the time being. If people join up with me on this project, I’ll definitely entertain the idea of a different leadership structure. I am more along the lines of someone who believes one should be skillful in leading and following.
 
 <b><div align="center">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/ckmlogo.png?raw=true)</div>
+
+&nbsp;
 
 <a id="what"></a>
 ## What is The MICR
 
+&nbsp;
+
 <a id="why"></a>
 ## Why Create it?
 
+&nbsp;
+
 <a id="roadmap"></a>
 ## Roadmap
-> At this time we do not have a traditional Roadmap.md that follows th
+
+At this time we do not have a traditional Roadmap.md that follows th
 For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
+
+&nbsp;
 
 <a id="how"></a>
 ## How To Contribute 
@@ -61,6 +72,7 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 [How To Contribute](./HOW_TO_CONTRIBUTE.md)
 </div></b>
 
+&nbsp;
 
 <a id="license"></a>
 ## License Info 
@@ -69,9 +81,7 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 [License](./LICENSE)
 </div></b>
 
-> This project is licensed under the GNU GENERAL PUBLIC LICENSE(version 3),
-> you can review it [here](./LICENSE)
-> I will update this section in the near future as to why I chose the GNU GPLv3 license. 
+ This project is licensed under the GNU GENERAL PUBLIC LICENSE(version 3), you can review it [here](./LICENSE) I will update this section in the near future as to why I chose the GNU GPLv3 license. 
 
 
 
