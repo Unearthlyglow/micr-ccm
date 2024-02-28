@@ -30,7 +30,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Pull Requests](#pull-requests)**
 
-**[Styleguides](#styleguides)**
+**[Styleguides](#style-guides)**
 
 **[Additional Notes](#additional-notes)**
 
