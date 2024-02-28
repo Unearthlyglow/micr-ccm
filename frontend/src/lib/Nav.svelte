@@ -4,7 +4,7 @@
 	</li>
 	<li class="class-divide">||</li>
 	<li role="list" dir="ltr">
-		<p class="tab-intact" aria-haspopup="listbox">Instrument Registration</p>
+		<p class="tab-intact" aria-haspopup="listbox">Instrument Functions</p>
 		<ul role="listbox">
 			<li class="manifesto--test"><a href="/jazz-manifesto/#body">Jazz Manifesto</a></li>
 
@@ -21,12 +21,16 @@
 
 	<li class="class-divide">||</li>
 	<li role="list" dir="rtl">
-		<p class="tab-intact" aria-haspopup="listbox">Instrument Missing</p>
+		<p class="tab-intact" aria-haspopup="listbox">Documentation</p>
 		<ul role="listbox">
-			<li><a href="/softwaremap/#body">Software Portfolio</a></li>
-			<li><a href="/visual/#body">Visual Media</a></li>
-			<li><a href="/art/#body">Art I've Enjoyed</a></li>
-			<li><a href="/embedded/#body">The Road To Embedded Programming</a></li>
+			<li><a href="/softwaremap/#body">Project ReadMe</a></li>
+			<li><a href="/embedded/#body">Project Roadmap</a></li>
+			<li><a href="/visual/#body">Governance</a></li>
+			<li><a href="/art/#body">How to Contribute</a></li>
+			<li><a href="/embedded/#body">Code of Conduct</a></li>
+			<li><a href="/embedded/#body">Contributors(Thank You)</a></li>
+			<li><a href="/embedded/#body">Software License</a></li>
+			
 		</ul>
 	</li>
 	<li class="class-divide">||</li>

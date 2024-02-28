@@ -28,14 +28,26 @@
 		</ul>
 		<ul>
 			<a   href="/embedded/#body">
-				<li>Registry Search</li>
+				<li>Projet Roadmap</li>
 			</a>
 			<a  data-tooltip="Developer or not, here's how you can contribute" href="/embedded/#body">
-				<li >Open Source Information</li>
+				<li >Governance</li>
 			</a>
-		
-	
-	
+			<a  data-tooltip="Developer or not, here's how you can contribute" href="/embedded/#body">
+				<li>Code of Conduct</li>
+			</a>
+			<a  data-tooltip="Developer or not, here's how you can contribute" href="/embedded/#body">
+				<li >How to Contribute</li>
+			</a>	
+		</ul>
+
+		<ul>
+			<a   href="/embedded/#body">
+				<li>Contributors(Thank You)</li>
+			</a>
+			<a  data-tooltip="Developer or not, here's how you can contribute" href="/embedded/#body">
+				<li> Software License</li>
+			</a>
 		</ul>
 		
 		<img class="building-logo" alt="The project logo" src={footerLogo} />
@@ -76,9 +88,12 @@
 
 		<div class="footer--ccmquote">
 		<div class="footer--images">
+			<div class="footer--images--ccmlogo-quote">
 			<img class="CCM-letters" src={CCMLetters} alt="CCM Letters" />
 			<p class="footer--quote">"It's (Almost) Better Than Life"</p>
+		</div>
 
+		<div class="footer--kryten-fire">
 		<img class="footer--kryten" src={kryten} alt="Kryten" />
 
 		<img class="footer--fire" src={fire} alt="CCM Letters" />
@@ -94,7 +109,7 @@
 			unlustigen Beschwerden eingereicht werden an DoNotReply@capsules.io.
 		</p>
 		<p class="footer--version">Version: <span>0.0.1</span></p>
-		<p class="footer--version">Last Updated: <span>1 / 30 / 24</span></p>
+		<p class="footer--version">Last Updated: <span>2 / 28 / 24</span></p>
 	
 </div>
 </footer>
@@ -110,8 +125,13 @@
 	}
 
 	.footer--images {
-		
+		display: flex;
+		justify-content: space-around;
+		align-content: center;
+	}
 
+	.footer--images--ccmlogo-quote {
+		justify-content: center;
 	}
 
 	.footer--above {
@@ -195,8 +215,11 @@
 		display: inline-block;
 	}
 
-	.footer--fire {
-		align-self: center;
+
+	.footer--kryten-fire {
+		display: block;
+		justify-content: space-around;
+
 	}
 
 	.building-logo {
@@ -323,11 +346,42 @@
 	
 	}
 
-	@media only screen and (max-width: 500px) {
+	@media only screen and (max-width: 920px) {
 
+		.footer--images {
+			display: block;
+			text-align: center;
 	}
 
+	.footer--quote {
+		display: block;
+	}
+
+	.footer--kryten-fire {
+		display: flex;
+		justify-content: space-around;
+	}
+
+}
+
+
+
+
+
+
+
 	@media only screen and (max-width: 450px) {
-	
+		.footer--images {
+			text-align: center;
+	}
+
+	.footer--fire {
+	margin-top: 1.5rem;
+	}
+
+	.footer--kryten-fire {
+		display: block;
+	}
+
 	}
 </style>
