@@ -27,7 +27,7 @@
 
 <div align="center">
  
-If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://unearthlyglow.github.io/micr-tome/chapter_1.html). 
+If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). 
 
 </div>
 
