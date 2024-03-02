@@ -25,13 +25,11 @@
 <a id="intro"></a>
 ## Intro <div align="right"> 🫀 </div>
 
-<div align="center">
- 
-If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). If you would like to read the documentation on the web application, you can visit this [link](!NEED | Link to live web app). 
+- If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). This is a MarkDown(MD) Book. 
 
-If you are intested in see the 'notepad' I use to sketch out ideas, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3). The notepad is a 'Notion' page. 
+- If you would like to read the documentation on the web application, you can visit this [link](!NEED). 
 
-</div>
+- If you are intested in see the 'notepad' I use to sketch out ideas, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3). The notepad is a 'Notion' page. 
 
 &nbsp;
 
