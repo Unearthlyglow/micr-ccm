@@ -14,6 +14,7 @@
 
 
 ## <div align="center"> Table of contents
+#### <div align="center">[Prelude](#prelude)
 #### <div align="center">[Intro](#intro)  
 #### <div align="center">[Leadership & Governance](#governance)  
 #### <div align="center">[What is The MICR](#what)
@@ -22,14 +23,19 @@
 #### <div align="center">[How To Contribute](#how)
 #### <div align="center">[License Info](#license)
 
+<a id="prelude"></a>
+## Prelude <div align="right"> 🛺 </div>
+
+> If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). This is a MarkDown(MD) Book.
+
+> If you are intested in see the 'notepad' I use to sketch out ideas, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3). The notepad is a 'Notion' page. 
+
+> If you would like to read the documentation on the web application, you can visit this [link](!NEED). 
+
 <a id="intro"></a>
 ## Intro <div align="right"> 🫀 </div>
 
-- If you would rather read these documents in a more "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). This is a MarkDown(MD) Book. 
-
-- If you would like to read the documentation on the web application, you can visit this [link](!NEED). 
-
-- If you are intested in see the 'notepad' I use to sketch out ideas, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3). The notepad is a 'Notion' page. 
+[!NEED] 
 
 &nbsp;
 
@@ -50,10 +56,14 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 <a id="what"></a>
 ## What is The MICR <div align="right"> 📙 </div>
 
+[!NEED] 
+
 &nbsp;
 
 <a id="why"></a>
 ## Why Create it? <div align="right"> ❤️‍🔥 </div>
+
+[!NEED] 
 
 &nbsp;
 
@@ -63,6 +73,8 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 <b><div align="right" >
 [Project Roadmap Document](./PROJECT_ROADMAP.md)
 </div></b>
+
+[!NEED] 
 
 At this time we do not have a traditional Roadmap.md that follows th
 For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
