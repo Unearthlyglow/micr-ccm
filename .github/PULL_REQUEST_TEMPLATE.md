@@ -1,5 +1,5 @@
 ## Pull Request template
-###### Please go through these steps before you submit a PR. Don't sweat too much about not filling each section out, I don't want you to back out of sending a pull request just because you feel overwhelmed by the below requirements. Definitly remove sections of the template you don't utilize as well as this information before submitting the PR. See [Issue#]() for an example.
+###### Please go through these steps before you submit a PR. Don't sweat too much about not filling each section out;  I don't want you to back out of sending a pull request just because you feel overwhelmed by the PR requirements. Definitely remove sections of the template you don't utilize. See [Pull Request#]() for an example. 
 ---
 
 **_Please check if the PR fulfills these requirements_**
