@@ -26,15 +26,15 @@
 <a id="prelude"></a>
 ## Prelude <div align="right"> 🛺 </div>
 
-- If you would rather read these documents in a more traditional "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). This is a MarkDown(MD) Book.
+If you would rather read these documents in a more traditional "book" style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). This is a MarkDown(MD) Book.
    
 &nbsp;
 
-- If you would like to read the documentation on the web application, you can visit this [link](!NEED).
+If you would like to read the documentation on the web application, you can visit this [link](!NEED).
    
 &nbsp;
 
-- If you are intested in seeing the 'notepad' I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3). The notepad is a 'Notion' page. 
+If you are intested in seeing the 'notepad' I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3). The notepad is a 'Notion' page. 
 
 
 
