@@ -26,7 +26,7 @@
 <a id="prelude"></a>
 ## Prelude <div align="right"> 🛺 </div>
 
-If you would rather read these documents in a more traditional "book"(MD Book) style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/). 
+If you would rather read these documents in a more traditional "book"(MD Book) style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/)
    
 &nbsp;
 
