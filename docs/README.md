@@ -16,7 +16,7 @@
 #### <div align="center">[Leadership & Governance](#governance)  
 #### <div align="center">[What is The MICR](#what)
 #### <div align="center">[Why Create It?](#why)  
-#### <div align="center">[Roadmap](#roadmap)  
+#### <div align="center">[Roadmap / Milestones](#roadmap)  
 #### <div align="center">[How To Contribute](#how)
 #### <div align="center">[License Info](#license)
 
@@ -73,10 +73,10 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 ---
 
 <a id="roadmap"></a>
-## Roadmap <div align="right"> 🗺️ </div>
+## Roadmap / Milestones <div align="right"> 🗺️ </div>
 
 <b><div align="right" >
-[Project Roadmap Document](./PROJECT_ROADMAP.md)
+[Project Roadmap Document](./https://github.com/Unearthlyglow/micr-ccm/milestones)
 </div></b>
 
 [!NEED] 
