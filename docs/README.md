@@ -11,11 +11,8 @@
  <b><div align="center"></b> [Project Roadmap](./PROJECT_ROADMAP.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) </div>
 
 
-
-
 ## <div align="center"> Table of contents
 #### <div align="center">[Prelude](#prelude)
-#### <div align="center">[Intro](#intro)  
 #### <div align="center">[Leadership & Governance](#governance)  
 #### <div align="center">[What is The MICR](#what)
 #### <div align="center">[Why Create It?](#why)  
@@ -37,13 +34,9 @@
 - If you are interested in seeing the 'notepad'(Notion document) I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3)
 
 
-
-<a id="intro"></a>
-## Intro <div align="right"> 🫀 </div>
-
-[!NEED] 
-
 &nbsp;
+
+---
 
 <a id="governance"></a>
 ## Leadership & Governance <div align="right"> 🛋️ </div>
@@ -59,6 +52,8 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 &nbsp;
 
+---
+
 <a id="what"></a>
 ## What is The MICR <div align="right"> 📙 </div>
 
@@ -66,12 +61,16 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 &nbsp;
 
+---
+
 <a id="why"></a>
 ## Why Create it? <div align="right"> ❤️‍🔥 </div>
 
 [!NEED] 
 
 &nbsp;
+
+---
 
 <a id="roadmap"></a>
 ## Roadmap <div align="right"> 🗺️ </div>
@@ -87,6 +86,8 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 
 &nbsp;
 
+---
+
 <a id="how"></a>
 ## How To Contribute <div align="right"> 🧑‍🤝‍🧑 </div>
 
@@ -95,6 +96,8 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 </div></b>
 
 &nbsp;
+
+---
 
 <a id="license"></a>
 ## License Info <div align="right"> ⚓ </div>
