@@ -76,7 +76,7 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 ## Roadmap / Milestones <div align="right"> 🗺️ </div>
 
 <b><div align="right" >
-[Project Roadmap Document](./https://github.com/Unearthlyglow/micr-ccm/milestones)
+[Project Roadmap Document](https://github.com/Unearthlyglow/micr-ccm/milestones)
 </div></b>
 
 [!NEED] 
