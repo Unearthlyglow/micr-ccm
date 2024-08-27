@@ -8,7 +8,7 @@
 <!-- [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
  Related to Issue #56 , once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. -->
 
- <b><div align="center"></b> [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) </div>
+ <b><div align="center"></b> [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Governance](./GOVERNANCE.md)  · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
 
 
 ## <div align="center"> Table of contents
