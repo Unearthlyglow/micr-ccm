@@ -1,4 +1,6 @@
-[ReadMe](./README.md) · [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones)  · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributors](./CONTRIBUTORS.md) · [Governance](./GOVERNANCE.md) · [Software License](./LICENSE)
+ <b><div align="center"></b> [ReadMe](./README.md) · [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [Governance](./GOVERNANCE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md)  · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
+
+ ---
 
 # How To Contribute To The MICR
 
