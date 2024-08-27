@@ -1,5 +1,7 @@
  <b><div align="center"></b> [ReadMe](./README.md) · [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Governance](./GOVERNANCE.md) · [Software License](/LICENSE) · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) </div>
 
+ ---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
