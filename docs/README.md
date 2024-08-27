@@ -14,8 +14,7 @@
 ## <div align="center"> Table of contents
 #### <div align="center">[Prelude](#prelude)
 #### <div align="center">[Leadership & Governance](#governance)  
-#### <div align="center">[What is The MICR](#what)
-#### <div align="center">[Why Create It?](#why)  
+#### <div align="center">[What is the MICR & Why was it created?](#what)
 #### <div align="center">[Roadmap / Milestones](#roadmap)  
 #### <div align="center">[How To Contribute](#how)
 #### <div align="center">[License Info](#license)
@@ -55,7 +54,7 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 ---
 
 <a id="what"></a>
-## What is The MICR <div align="right"> 📙 </div>
+## What is The MICR & Why was it created? <div align="right"> ❤️‍🔥 </div>
 
 [!NEED] 
 
@@ -63,14 +62,6 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 ---
 
-<a id="why"></a>
-## Why Create it? <div align="right"> ❤️‍🔥 </div>
-
-[!NEED] 
-
-&nbsp;
-
----
 
 <a id="roadmap"></a>
 ## Roadmap / Milestones <div align="right"> 🗺️ </div>
