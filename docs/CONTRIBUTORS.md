@@ -1,4 +1,4 @@
- <b><div align="center"></b> [ReadMe](./README.md) · [Governance](./GOVERNANCE.md) · [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
+ <b><div align="center"></b> [ReadMe](./README.md) · [Governance](./GOVERNANCE.md) · [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
 
  ---
 
