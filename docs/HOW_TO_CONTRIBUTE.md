@@ -44,21 +44,15 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 &nbsp;
 
-<div align="right"> 
-🏗️ 
-</div>
-
-## Code of Conduct  
+## Code of Conduct <div align="right"> 🏗️  </div>
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
 
 &nbsp;
 
-<div align="right"> 
-❔
-</div>
+---
 
-## TLDR I just have a question! 
+## TLDR I just have a question! <div align="right"> ❔ </div>
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
@@ -68,11 +62,9 @@ You can submit a question through the discussions tab, or you can click **[here]
 
 &nbsp;
 
-<div align="right"> 
-🪄
-</div>
+---
 
-## How Can I Contribute? 
+## How Can I Contribute? <div align="right"> 🪄 </div>
 
 <div align="center">
 	
@@ -83,7 +75,7 @@ You can submit a question through the discussions tab, or you can click **[here]
 >Don't get too caught up in ALL of the details of your idea whenever the moment of inspiration comes upon you. If you get too caught up in trying to make everything make sense immediately, you may not submit your idea at all. Remember, do your best and try to have some gawd damn fun. 
 > ---
 
-For anyone who is new contributing to open source and has a question about the relationship between ISSUES and PULL REQUESTS, Steve Donie gave an answer on Quora:
+For anyone who is new to contributing to open source and has a question about the relationship between ISSUES and PULL REQUESTS, Steve Donie answered on Quora:
 
 **A pull request has code that fixes a bug or adds a feature. An issue in GitHub is just a description of a bug or a feature. A pull request might be created to address an issue, and merging the pull request might result in that issue being marked as ‘resolved’.**
 
@@ -93,11 +85,9 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 &nbsp;
 
-<div align="right"> 
-🐛
-</div>
+---
 
-## Reporting Bugs 
+## Reporting Bugs <div align="right"> 🐛 </div> 
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
 
@@ -105,6 +95,8 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 **[!NEED]** Fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
+
+&nbsp;
 
 ---
 
@@ -114,6 +106,8 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 * **Check** the **[FAQ]([!NEED])** for a list of common questions and problems.
 
 * **Perform a [cursory search](https://github.com/Unearthlyglow/sveltego/issues?q=is%3Aopen+is%3Aissue+label%3Abug)** to see if the problem has already been reported. If it has and the issue is **still open**, add a comment to the existing issue instead of opening a new one.
+
+&nbsp;
 
 ---
 	
@@ -127,16 +121,11 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 <b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
+---
 
-&nbsp;
+## Suggesting Enhancements/Features <div align="right"> 🥊 </div>
 
-<div align="right"> 
-🥊
-</div>
-
-## Suggesting Enhancements/Features 
-
-This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestions and find related suggestions.
 
 Before creating enhancement suggestions, please check the **[Issues](https://github.com/Unearthlyglow/sveltego/issues)** tab as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible, including the steps that you imagine you would take if the feature you're requesting existed.
 
@@ -154,21 +143,15 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
-<div align="right"> 
-🧭
-</div>
+---
 
-## Local development 
+## Local development <div align="right"> 🧭 </div>
 
 **[!NEED || Local Dev Set-up FAQ]**
 
 &nbsp;
 
-<div align="right"> 
-🚂
-</div>
-
-## Pull Requests 
+## Pull Requests <div align="right"> 🚂 </div>
 
 The process described here has several goals:
 
@@ -186,11 +169,9 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 &nbsp;
 
-<div align="right"> 
-🧑‍🎨
-</div>
+---
 
-## Styleguides 
+## Styleguides <div align="right"> 🧑‍🎨 </div>
  
 ### Git Commit Messages 
 
@@ -217,27 +198,23 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
  **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
 
  --- 
+ 
 ### Documentation Styleguide  
 
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 &nbsp;
 
-<div align="right"> 
-📔
-</div>
+---
 
-## Issue Labels 
-
+## Issue Labels <div align="right"> 📔 </div>
 
 **[!NEED]**
 
 &nbsp;
 
-<div align="right"> 
-🌞
-</div>
+---
 
-## Thank you to 'Atom'
+## Thank you to 'Atom' <div align="right"> 🌞 </div>
 
 Thank you to all the contributors who put work into the  'Atom'  Contribution guide. I appreciate all the hard work that was put into it. The MICR will be another entity that will carry on your torch respectfully. 
