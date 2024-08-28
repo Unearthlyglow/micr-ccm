@@ -6,6 +6,9 @@ labels: 'enhancement'
 assignees: Unearthlyglow
 
 ---
+
+> Don't worry about having info for each of the sections, just do your best and delete sections that you don't utilize. 
+
 ## Summary
 
 <!-- One paragraph explanation of the feature. -->
@@ -22,5 +25,4 @@ assignees: Unearthlyglow
 
 <!-- Add any other context or screenshots about the feature request here. -->
 
----
-Don't worry about having info for each of the sections, just do your best and delete sections that you don't utilize. 
+
