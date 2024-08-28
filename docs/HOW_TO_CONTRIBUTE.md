@@ -56,7 +56,7 @@ This project and everyone participating in it is governed by the **[MICR Code of
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-You can submit a question through the discussions tab, or you can click **[here](https://github.com/Unearthlyglow/sveltego/discussions/new?category=q-a)**. 
+You can submit a question through the discussions tab here **[here](https://github.com/Unearthlyglow/sveltego/discussions/new?category=q-a)**. The discussions tab [here](https://github.com/Unearthlyglow/micr-ccm/discussions/new/choose) has other categories beyond a question you can choose from. 
 
 **[!NEED]** I will also look into setting up an email address so people can have this option as well. 
 
