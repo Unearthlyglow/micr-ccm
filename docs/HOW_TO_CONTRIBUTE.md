@@ -18,7 +18,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 <div align="center"> 
 	
-### Table Of Contents
+## <div align="center"> Table of contents
 
 **[Code of Conduct](#code-of-conduct)**
 
