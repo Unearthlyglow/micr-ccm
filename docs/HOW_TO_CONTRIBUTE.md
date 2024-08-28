@@ -34,7 +34,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Styleguides](#styleguides)**
 
-**[Additional Notes](#additional-notes)**
+**[Issue_Labels](#additional-notes)**
 
 **[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
 
@@ -227,9 +227,9 @@ Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki
 📔
 </div>
 
-## Additional Notes
+## Issue Labels 
 
-### Issue and Pull Request Labels
+
 **[!NEED]**
 
 &nbsp;
