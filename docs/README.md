@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
 
 <!-- [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
- Related to Issue #56 , once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. -->
+ Related to Issue #56, once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. -->
 
  <b><div align="center"></b> [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Governance](./GOVERNANCE.md)  · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
 
@@ -33,9 +33,9 @@
 - If you are interested in seeing the 'notepad'(Notion document) I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3)
 
 
-&nbsp;
+<div align="left"> 🔹 </div>
 
----
+&nbsp;
 
 <a id="governance"></a>
 ## Leadership & Governance <div align="right"> 🛋️ </div>
@@ -49,19 +49,19 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 <b><div align="center">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/ckmlogo.png?raw=true)</div>
 
-&nbsp;
 
----
+<div align="left"> 🔹 </div>
+
+&nbsp;
 
 <a id="what"></a>
 ## What is The MICR & Why was it created? <div align="right"> ❤️‍🔥 </div>
 
 [!NEED] 
 
+<div align="left"> 🔹 </div>
+
 &nbsp;
-
----
-
 
 <a id="roadmap"></a>
 ## Roadmap / Milestones <div align="right"> 🗺️ </div>
@@ -75,9 +75,9 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 At this time we do not have a traditional Roadmap.md that follows th
 For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
 
-&nbsp;
+<div align="left"> 🔹 </div>
 
----
+&nbsp;
 
 <a id="how"></a>
 ## How To Contribute <div align="right"> 🧑‍🤝‍🧑 </div>
@@ -86,9 +86,9 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 [How To Contribute Document](./HOW_TO_CONTRIBUTE.md)
 </div></b>
 
-&nbsp;
+<div align="left"> 🔹 </div>
 
----
+&nbsp;
 
 <a id="license"></a>
 ## License Info <div align="right"> ⚓ </div>
@@ -98,6 +98,8 @@ For now you can visit the ISSUES tab and at the right click on ‘Milestones’ 
 </div></b>
 
  This project is licensed under the GNU GENERAL PUBLIC LICENSE(version 3), you can review it [here](./LICENSE) I will update this section in the near future as to why I chose the GNU GPLv3 license. 
+
+ <div align="left"> 🔹 </div>
 
 
 
