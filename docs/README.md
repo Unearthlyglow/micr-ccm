@@ -32,10 +32,9 @@
 
 - If you are interested in seeing the 'notepad'(Notion document) I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3)
 
+&nbsp;
 
 <div align="left"> 🔹 </div>
-
-&nbsp;
 
 <a id="governance"></a>
 ## Leadership & Governance <div align="right"> 🛋️ </div>
@@ -49,19 +48,18 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 <b><div align="center">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/ckmlogo.png?raw=true)</div>
 
+&nbsp;
 
 <div align="left"> 🔹 </div>
-
-&nbsp;
 
 <a id="what"></a>
 ## What is The MICR & Why was it created? <div align="right"> ❤️‍🔥 </div>
 
 [!NEED] 
 
-<div align="left"> 🔹 </div>
-
 &nbsp;
+
+<div align="left"> 🔹 </div>
 
 <a id="roadmap"></a>
 ## Roadmap / Milestones <div align="right"> 🗺️ </div>
@@ -72,9 +70,9 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 You can follow the roadmap of the project by navigating to the ‘Milestones’ page provided by Github, you can find it [here](https://github.com/Unearthlyglow/micr-ccm/milestones).
 
-<div align="left"> 🔹 </div>
-
 &nbsp;
+
+<div align="left"> 🔹 </div>
 
 <a id="how"></a>
 ## How To Contribute <div align="right"> 🧑‍🤝‍🧑 </div>
@@ -83,9 +81,20 @@ You can follow the roadmap of the project by navigating to the ‘Milestones’ 
 [How To Contribute Document](./HOW_TO_CONTRIBUTE.md)
 </div></b>
 
-<div align="left"> 🔹 </div>
+One of the main ideas of this project is to allow a wide range of individuals with varied skill sets to participate, below are some examples of what an individual can provide for this project. Please be sure to read the full ‘How To Contribute’ document [here](https://github.com/Unearthlyglow/micr-ccm/blob/main/docs/HOW_TO_CONTRIBUTE.md). 
+
+Examples of where one can see themselves contributing: 
+
+- Ideas
+- Documentation
+- Graphic Design
+- Code
+- Bug Reports
+- Vulnerability Reports
 
 &nbsp;
+
+<div align="left"> 🔹 </div>
 
 <a id="license"></a>
 ## License Info <div align="right"> ⚓ </div>
