@@ -26,9 +26,12 @@
    
 &nbsp;
 
-<!-- - If you would like to read the documentation on the web application, you can visit this [link](!NEED) -->
-   
+<!-- - If you would like to read the documentation on the web application, you can visit this [link](!NEED) 
+
 &nbsp;
+
+-->
+
 
 - If you are interested in seeing the 'notepad'(Notion document) I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3)
 
