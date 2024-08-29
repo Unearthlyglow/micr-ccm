@@ -70,6 +70,10 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 You can follow the roadmap of the project by navigating to the ‘Milestones’ page provided by Github, you can find it [here](https://github.com/Unearthlyglow/micr-ccm/milestones).
 
+The current milestone is for version 0.5 of the project and is titled 'My Dedication', below is the goal of the milestone:
+
+The goal of v0.5 is to set up the infrastructure and documentation for the project so that I can then invite a select few individuals who can scrutinize the project to help it be properly structured and healthy for any contributions from the greater public, a proper start is the only way to go about things.
+
 &nbsp;
 
 <div align="left"> 🔹 </div>
