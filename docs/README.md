@@ -70,10 +70,7 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones)
 </div></b>
 
-[!NEED] 
-
-At this time we do not have a traditional Roadmap.md that follows th
-For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
+You can follow the roadmap of the project by navigating to the ‘Milestones’ page provided by Github, you can find it [here](https://github.com/Unearthlyglow/micr-ccm/milestones).
 
 <div align="left"> 🔹 </div>
 
