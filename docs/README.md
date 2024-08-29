@@ -5,7 +5,7 @@
 ![Go Version](https://img.shields.io/badge/go%20version-%3E=1.20-61CFDD.svg?style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CCMAnd2Cents)](https://twitter.com/CCMAnd2Cents)
 
-<!-- [![Check it out on repl.it](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
+<!-- [![Check it out on repl.it] [TK!NEED](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
  Related to Issue #56, once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. -->
 
  <b><div align="center"></b> [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Governance](./GOVERNANCE.md)  · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
@@ -26,7 +26,7 @@
    
 &nbsp;
 
-- If you would like to read the documentation on the web application, you can visit this [link](!NEED)
+<!-- - If you would like to read the documentation on the web application, you can visit this [link](!NEED) -->
    
 &nbsp;
 
