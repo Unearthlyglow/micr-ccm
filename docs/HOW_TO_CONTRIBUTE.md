@@ -87,7 +87,7 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 &nbsp;
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
 
 <a id="reporting-bugs"></a>
 ## Reporting Bugs <div align="right"> 🐛 </div> 
@@ -112,7 +112,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
 
 ### How Do I Submit A (Good) Bug Report?
 
@@ -124,7 +124,7 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 <b><div align="right">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
 
 <a id="suggesting-enhancements"></a>
 ## Suggesting Enhancements/Features <div align="right"> 🥊 </div>
@@ -149,7 +149,7 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
 
 ### Issue Labels <div align="right"> 📔 </div>
 
@@ -159,7 +159,7 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 &nbsp;
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
 
 <a id="local-development"></a>
 ## Local Development <div align="right"> 🧭 </div>
@@ -199,7 +199,7 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 &nbsp;
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
 
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
@@ -231,7 +231,7 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
 
  &nbsp;
 
-<div align="left"> 🔹 </div>
+<div align="right"> 🔸 </div>
  
 ### Documentation Styleguide  
 
