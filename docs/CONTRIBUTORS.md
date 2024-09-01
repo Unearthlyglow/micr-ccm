@@ -6,7 +6,7 @@
 
 
 
-This page is dedicated to all of the people who have contributed to the success of this registry and compendium.
+This page is dedicated to all of the people who have contributed to the success of this project.
 
 1.  Family, Friends, Darla
 2.  The large amounts of tutorial information regarding open-source software[https://opensource.guide/](https://opensource.guide/)
