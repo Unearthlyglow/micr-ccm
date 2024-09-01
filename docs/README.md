@@ -18,7 +18,7 @@
 #### <div align="center">[Roadmap / Milestones](#roadmap)  
 #### <div align="center">[How To Contribute](#how)
 #### <div align="center">[License Info](#license)
-#### <div align="center">[Support](#support)
+#### <div align="center">[Support](#support1)
 
 <a id="prelude"></a>
 ## Prelude <div align="right"> 🛺 </div>
@@ -115,7 +115,7 @@ Examples of where one can see themselves contributing:
 
  <div align="left"> 🔹 </div>
 
-<a id="support"></a>
+<a id="support1"></a>
 ## The MICR Support Page <div align="right"> 🦆 </div>
 
 <b><div align="right">
