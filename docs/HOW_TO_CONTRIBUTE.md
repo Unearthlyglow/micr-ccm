@@ -36,10 +36,6 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Styleguides](#styleguides)**
 
-**[Issue Labels](#issue_labels)**
-
-**[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
-
 **[Thank You To Atom](#thank-you-to-atom)**
    
 </div>
@@ -136,16 +132,23 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 
 --- 
 
-<a id="code-of-conduct"></a>
 ### How Do I Submit A (Good) Enhancement Suggestion?
 
-- Navigate to the **[Issues]()** tab
+- Navigate to the **[Issues](https://github.com/Unearthlyglow/micr-ccm/issues)** page
 - Select **New Issue**
 - Select **Get Started** under  **Bug Report** 
 
 You can also retrieve the Feature/Enhancement template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/feature-request.md)**. 
 
 <b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-feature.png?raw=true)</div>
+
+---
+
+### Issue Labels <div align="center"> 📔 </div>
+
+You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
+  
+When creating an issue, please do your best to attach the appropriate labels. Don’t fret too much about making sure you’ve attached the perfect set of labels to the issue, a maintainer will review each issue and then once it looks good will leave a comment either asking for more info or giving it the go-ahead to be worked, attach a GREEN label that says (Ready-To-Be-Worked) and list its priority and appropriate milestone association.
 
 &nbsp;
 
@@ -174,6 +177,14 @@ Please follow these steps to have your contribution considered by the maintainer
 3. After you submit your pull request, verify that all **[status checks](https://help.github.com/articles/about-status-checks/)** are passing  What if the status checks are failing?f a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
+
+&nbsp;
+
+### Issue Labels <div align="center"> 📔 </div>
+
+You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
+  
+When creating an issue, please do your best to attach the appropriate labels. Don’t fret too much about making sure you’ve attached the perfect set of labels to the issue, a maintainer will review each issue and then once it looks good will leave a comment either asking for more info or giving it the go-ahead to be worked, attach a GREEN label that says (Ready-To-Be-Worked) and list its priority and appropriate milestone association.
 
 &nbsp;
 
@@ -211,17 +222,6 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
 ### Documentation Styleguide  
 
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
-
-&nbsp;
-
----
-
-<a id="issue-labels"></a>
-## Issue Labels <div align="center"> 📔 </div>
-
-You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
-  
-When creating an issue, please do your best to attach the appropriate labels. Don’t fret too much about making sure you’ve attached the perfect set of labels to the issue, a maintainer will review each issue and then once it looks good will leave a comment either asking for more info or giving it the go-ahead to be worked, attach a GREEN label that says (Ready-To-Be-Worked) and list its priority and appropriate milestone association.
 
 &nbsp;
 
