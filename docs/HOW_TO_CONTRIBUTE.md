@@ -36,7 +36,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Styleguides](#styleguides)**
 
-**[Issue_Labels](#additional-notes)**
+**[Issue Labels](#issue_labels)**
 
 **[Issue and Pull Request Labels](#issue-and-pull-request-labels)**
 
