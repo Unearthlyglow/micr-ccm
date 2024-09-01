@@ -115,6 +115,7 @@ Examples of where one can see themselves contributing:
 
  <div align="left"> 🔹 </div>
 
+<a id="support1"></a>
 ## The MICR Support Page <div align="right"> 🦆 </div>
 
 <b><div align="right">
@@ -122,7 +123,7 @@ Examples of where one can see themselves contributing:
 </div></b>
 
 Please send any emails you have regarding security vulnerabilities to Micr.Support@capsulescure.io. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
-<a id="support1"></a>
+
 
 &nbsp;
 
