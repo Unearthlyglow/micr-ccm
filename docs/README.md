@@ -23,9 +23,17 @@
 <a id="prelude"></a>
 ## Prelude <div align="right"> 🛺 </div>
 
+Hello, I hope you're well.
+
+At this time a link to the web application has not been established because I need to work with my close community to establish a proper baseline for certain functions mainly around security(people's information) and authentication of instruments. 
+
+If you have any immediate questions you would like to ask and can't find a resource on this repo to help you, feel free to send an email to Micr.Support@capsulescure.io. Response time is around 24-48 hours. 
+
+&nbsp;
+
 - If you would rather read these documents in a more traditional "book"(MD Book) style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/)
    
-&nbsp;
+
 
 <!-- - If you would like to read the documentation on the web application, you can visit this [link](!NEED) 
 
