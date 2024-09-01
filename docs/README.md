@@ -8,7 +8,7 @@
 <!-- [![Check it out on repl.it] [TK!NEED](https://repl.it/badge/github/Unearthlyglow/sveltego)](https://replit.com/@AwardMalisi/sveltego#cmd/main.go) 
  Related to Issue #56, once the issue is completed, update the URL above(if need be) then uncomment and double check everything works. -->
 
- <b><div align="center"></b> [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Governance](./GOVERNANCE.md)  · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
+ <b><div align="center"></b> [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Governance](./GOVERNANCE.md)  · [Contributors](./CONTRIBUTORS.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE)  </div>
 
 
 ## <div align="center"> Table of contents
@@ -117,7 +117,7 @@ Examples of where one can see themselves contributing:
 ## The MICR Support Page <div align="right"> 🦆 </div>
 
 <b><div align="right">
-[License](./SUPPORT)
+[License](./SUPPORT.md)
 </div></b>
 
 Please send any emails you have regarding security vulnerabilities to Micr.Support@capsulescure.io. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
