@@ -115,7 +115,7 @@ Examples of where one can see themselves contributing:
 
  <div align="left"> 🔹 </div>
 
-<a id="license"></a>
+<a id="support"></a>
 ## The MICR Support Page <div align="right"> 🦆 </div>
 
 <b><div align="right">
