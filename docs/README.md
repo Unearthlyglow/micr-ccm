@@ -18,6 +18,7 @@
 #### <div align="center">[Roadmap / Milestones](#roadmap)  
 #### <div align="center">[How To Contribute](#how)
 #### <div align="center">[License Info](#license)
+#### <div align="center">[Support](#support)
 
 <a id="prelude"></a>
 ## Prelude <div align="right"> 🛺 </div>
@@ -114,10 +115,11 @@ Examples of where one can see themselves contributing:
 
  <div align="left"> 🔹 </div>
 
+<a id="license"></a>
 ## The MICR Support Page <div align="right"> 🦆 </div>
 
 <b><div align="right">
-[License](./SUPPORT.md)
+[Support Doc](./SUPPORT.md)
 </div></b>
 
 Please send any emails you have regarding security vulnerabilities to Micr.Support@capsulescure.io. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
