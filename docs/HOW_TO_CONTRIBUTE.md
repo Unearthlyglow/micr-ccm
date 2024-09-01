@@ -12,7 +12,7 @@ Hello,
 
 
 
-The following is a set of guidelines for contributing to **The MICR** open-source project.  These are mostly guidelines, and recommendations. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to **The MICR** open-source project.  These are mostly guidelines and recommendations. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 &nbsp;
 
@@ -29,6 +29,8 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 **[Reporting Bugs](#reporting-bugs)**
 
 **[Suggesting Enhancements](#suggesting-enhancements)**
+
+**[Local Development](#local-development)**
 
 **[Pull Requests](#pull-requests)**
 
@@ -53,7 +55,7 @@ This project and everyone participating in it is governed by the **[MICR Code of
 <div align="right"> 🟪 </div>
 &nbsp;
 
-<a id="code-of-conduct"></a>
+<a id="tldr-i-just-have-a-question!"></a>
 ## TLDR I just have a question! <div align="center"> ❔ </div>
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
@@ -65,7 +67,7 @@ You can submit a question through the discussions tab here **[here](https://gith
 &nbsp;
 
 ---
-<a id="code-of-conduct"></a>
+<a id="how-can-i-contribute"></a>
 ## How Can I Contribute? <div align="center"> 🪄 </div>
 
 <div align="center">
@@ -89,6 +91,7 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 ---
 
+<a id="reporting-bugs"></a>
 ## Reporting Bugs <div align="center"> 🐛 </div> 
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
@@ -101,7 +104,6 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 &nbsp;
 
 ---
-
 ### Before Submitting A Bug Report
 
 **[!NEED || 1. FAQ Document 2. Link for FAQ Doc]**
@@ -112,7 +114,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 &nbsp;
 
 ---
-	
+
 ### How Do I Submit A (Good) Bug Report?
 
 - Navigate to the **[Issues]()** tab
@@ -125,6 +127,7 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 ---
 
+<a id="suggesting-enhancements"></a>
 ## Suggesting Enhancements/Features <div align="center"> 🥊 </div>
 
 This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestions and find related suggestions.
@@ -133,6 +136,7 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 
 --- 
 
+<a id="code-of-conduct"></a>
 ### How Do I Submit A (Good) Enhancement Suggestion?
 
 - Navigate to the **[Issues]()** tab
@@ -147,12 +151,14 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 ---
 
-## Local development <div align="center"> 🧭 </div>
+<a id="local-development"></a>
+## Local Development <div align="center"> 🧭 </div>
 
 **[!NEED || Local Dev Set-up FAQ]**
 
 &nbsp;
 
+<a id="pull-requests"></a>
 ## Pull Requests <div align="center"> 🚂 </div>
 
 The process described here has several goals:
@@ -173,6 +179,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 ---
 
+<a id="styleguides"></a>
 ## Styleguides <div align="center"> 🧑‍🎨 </div>
  
 ### Git Commit Messages 
@@ -209,6 +216,7 @@ Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki
 
 ---
 
+<a id="issue-labels"></a>
 ## Issue Labels <div align="center"> 📔 </div>
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
@@ -219,6 +227,7 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 ---
 
+<a id="thank-you-to-atom"></a>
 ## Thank you to 'Atom' <div align="center"> 🌞 </div>
 
 Thank you to all the contributors who put work into the  'Atom'  Contribution guide. I appreciate all the hard work that was put into it. The MICR will be another entity that will carry on your torch respectfully. 
