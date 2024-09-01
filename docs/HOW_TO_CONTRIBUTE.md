@@ -48,9 +48,9 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
 
-
-<div align="right"> 🟪 </div>
 &nbsp;
+
+<div align="left"> 🔹 </div>
 
 <a id="tldr-i-just-have-a-question!"></a>
 ## TLDR I just have a question! <div align="right"> ❔ </div>
@@ -63,6 +63,7 @@ You can submit a question through the discussions tab here **[here](https://gith
 
 &nbsp;
 
+<div align="left"> 🔹 </div>
 
 <a id="how-can-i-contribute"></a>
 ## How Can I Contribute? <div align="right"> 🪄 </div>
@@ -86,7 +87,7 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 &nbsp;
 
-
+<div align="left"> 🔹 </div>
 
 <a id="reporting-bugs"></a>
 ## Reporting Bugs <div align="right"> 🐛 </div> 
@@ -100,6 +101,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
+<div align="left"> 🔹 </div>
 
 ### Before Submitting A Bug Report
 
@@ -110,7 +112,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
-
+<div align="left"> 🔹 </div>
 
 ### How Do I Submit A (Good) Bug Report?
 
@@ -122,7 +124,7 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 <b><div align="right">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
-
+<div align="left"> 🔹 </div>
 
 <a id="suggesting-enhancements"></a>
 ## Suggesting Enhancements/Features <div align="right"> 🥊 </div>
@@ -131,8 +133,10 @@ This section guides you through submitting an enhancement suggestion for the MIC
 
 Before creating enhancement suggestions, please check the **[Issues](https://github.com/Unearthlyglow/sveltego/issues)** tab as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible, including the steps that you imagine you would take if the feature you're requesting existed.
 
- 
+&nbsp;
 
+<div align="left"> 🔹 </div>
+ 
 ### How Do I Submit A (Good) Enhancement Suggestion?
 
 - Navigate to the **[Issues](https://github.com/Unearthlyglow/micr-ccm/issues)** page
@@ -143,7 +147,9 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 <b><div align="right">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-feature.png?raw=true)</div>
 
+&nbsp;
 
+<div align="left"> 🔹 </div>
 
 ### Issue Labels <div align="right"> 📔 </div>
 
@@ -153,7 +159,7 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 &nbsp;
 
-
+<div align="left"> 🔹 </div>
 
 <a id="local-development"></a>
 ## Local Development <div align="right"> 🧭 </div>
@@ -161,6 +167,8 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 **[!NEED || Local Dev Set-up FAQ]**
 
 &nbsp;
+
+<div align="left"> 🔹 </div>
 
 <a id="pull-requests"></a>
 ## Pull Requests <div align="right"> 🚂 </div>
@@ -181,6 +189,8 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 &nbsp;
 
+<div align="left"> 🔹 </div>
+
 ### Issue Labels <div align="right"> 📔 </div>
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
@@ -189,7 +199,7 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 &nbsp;
 
-
+<div align="left"> 🔹 </div>
 
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
@@ -205,12 +215,13 @@ Limit the first line to 72 characters or less
 Reference issues and pull requests liberally after the first line
 
 
-
 ### GO Style Guide 
 
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
+&nbsp;
 
+<div align="left"> 🔹 </div>
  
 ### Linters 
 
@@ -218,7 +229,9 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
  
  **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
 
-  
+ &nbsp;
+
+<div align="left"> 🔹 </div>
  
 ### Documentation Styleguide  
 
@@ -226,9 +239,13 @@ Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki
 
 &nbsp;
 
-
+<div align="left"> 🔹 </div>
 
 <a id="thank-you-to-atom"></a>
 ## Thank you to 'Atom' <div align="right"> 🌞 </div>
 
 Thank you to all the contributors who put work into the  'Atom'  Contribution guide. I appreciate all the hard work that was put into it. The MICR will be another entity that will carry on your torch respectfully. 
+
+&nbsp;
+
+<div align="left"> 🔹 </div>
