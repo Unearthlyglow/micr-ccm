@@ -3,6 +3,7 @@
  ---
 
 # How To Contribute To The MICR
+<b><div align="center">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/construct.svg?raw=true)</div>
 
 Hello, 
 
