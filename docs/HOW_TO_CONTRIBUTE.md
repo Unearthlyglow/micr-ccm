@@ -44,6 +44,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 &nbsp;
 
+<a id="code-of-conduct"></a>
 ## Code of Conduct <div align="center"> 🏗️  </div>
 
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
@@ -52,7 +53,7 @@ This project and everyone participating in it is governed by the **[MICR Code of
 <div align="right"> 🟪 </div>
 &nbsp;
 
-
+<a id="code-of-conduct"></a>
 ## TLDR I just have a question! <div align="center"> ❔ </div>
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
@@ -64,7 +65,7 @@ You can submit a question through the discussions tab here **[here](https://gith
 &nbsp;
 
 ---
-
+<a id="code-of-conduct"></a>
 ## How Can I Contribute? <div align="center"> 🪄 </div>
 
 <div align="center">
