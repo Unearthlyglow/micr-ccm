@@ -87,7 +87,7 @@ Before submitting a new **pull request** be sure to check the [Pull Requests](ht
 
 &nbsp;
 
-<div align="right"> 🔸 </div>
+<div align="left"> 🔹 </div>
 
 <a id="reporting-bugs"></a>
 ## Reporting Bugs <div align="right"> 🐛 </div> 
@@ -101,8 +101,6 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
-<div align="left"> 🔹 </div>
-
 ### Before Submitting A Bug Report
 
 **[!NEED || 1. FAQ Document 2. Link for FAQ Doc]**
@@ -111,8 +109,6 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 * **Perform a [cursory search](https://github.com/Unearthlyglow/sveltego/issues?q=is%3Aopen+is%3Aissue+label%3Abug)** to see if the problem has already been reported. If it has and the issue is **still open**, add a comment to the existing issue instead of opening a new one.
 
 &nbsp;
-
-<div align="right"> 🔸 </div>
 
 ### How Do I Submit A (Good) Bug Report?
 
@@ -124,7 +120,7 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 
 <b><div align="right">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
-<div align="right"> 🔸 </div>
+<div align="left"> 🔹 </div>
 
 <a id="suggesting-enhancements"></a>
 ## Suggesting Enhancements/Features <div align="right"> 🥊 </div>
@@ -134,8 +130,6 @@ This section guides you through submitting an enhancement suggestion for the MIC
 Before creating enhancement suggestions, please check the **[Issues](https://github.com/Unearthlyglow/sveltego/issues)** tab as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible, including the steps that you imagine you would take if the feature you're requesting existed.
 
 &nbsp;
-
-<div align="left"> 🔹 </div>
  
 ### How Do I Submit A (Good) Enhancement Suggestion?
 
@@ -149,8 +143,6 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
-<div align="right"> 🔸 </div>
-
 ### Issue Labels <div align="right"> 📔 </div>
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
@@ -159,7 +151,7 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 &nbsp;
 
-<div align="right"> 🔸 </div>
+<div align="left"> 🔹 </div>
 
 <a id="local-development"></a>
 ## Local Development <div align="right"> 🧭 </div>
@@ -199,12 +191,12 @@ When creating an issue, please do your best to attach the appropriate labels. Do
 
 &nbsp;
 
-<div align="right"> 🔸 </div>
+<div align="left"> 🔹 </div>
 
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
  
-### Git Commit Messages 
+### <ins> Git Commit Messages  </ins>
 
 Use the present tense ("Add feature" not "Added feature")
 
@@ -214,14 +206,13 @@ Limit the first line to 72 characters or less
 
 Reference issues and pull requests liberally after the first line
 
+&nbsp;
 
 ### GO Style Guide 
 
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
 &nbsp;
-
-<div align="left"> 🔹 </div>
  
 ### Linters 
 
@@ -230,8 +221,6 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
  **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
 
  &nbsp;
-
-<div align="right"> 🔸 </div>
  
 ### Documentation Styleguide  
 
