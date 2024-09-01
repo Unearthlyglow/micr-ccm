@@ -114,5 +114,17 @@ Examples of where one can see themselves contributing:
 
  <div align="left"> 🔹 </div>
 
+## The MICR Support Page <div align="right"> 🦆 </div>
+
+<b><div align="right">
+[License](./SUPPORT)
+</div></b>
+
+Please send any emails you have regarding security vulnerabilities to Micr.Support@capsulescure.io. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
+
+&nbsp;
+
+<div align="left"> 🔹 </div>
+
 
 
