@@ -37,7 +37,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 ###### [How Do I Submit A (Good) Enhancement Suggestion?](#good-enhancements)
 
-###### [Issue Labels](#issue-labels)
+###### [Issue Labels](#issue)
 
 [Local Development](#local-development)
 
@@ -164,7 +164,7 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
- <a id="labels"></a>
+ <a id="issue"></a>
 ###  <ins> Issue Labels: </ins>
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
