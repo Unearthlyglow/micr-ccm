@@ -71,7 +71,15 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 [MICR Manifesto](./MICR_MANIFESTO.md)
 </div></b>
 
-[!NEED] 
+### <ins> The What: </ins>
+The MICR(Musical Instrument Compendium and Registry) is a digital compendium and registry for guitars and basses(at this time), that also acts as software to assist guitarists and bassists if their instrument is ever stolen or goes missing. 
+
+&nbsp;
+
+### <ins> The Why: </ins>
+- A tool for the musical community that can help forestall the thievery of a musician’s instrument or at least aid a musician if such an event were to take place
+- Once the project really get’s going I hope to fashion the project into a modular learning tool that can help software developers build and maintain an open-source full-stack application.
+- And finally, a passion project is a good way to practice a majority of my skills within computer science as well as other disciplines such as writing and graphic design. I wish to build tools for the many communities in the world and I believe this project would be a nice preface to that idea.
 
 &nbsp;
 
