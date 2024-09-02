@@ -119,6 +119,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
+<a id="before-bug"></a>
 ### <ins> Before Submitting A Bug Report: </ins>
 
 **[!NEED || 1. FAQ Document 2. Link for FAQ Doc]**
@@ -128,6 +129,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
+<a id="good-bug"></a>
 ### <ins> How Do I Submit A (Good) Bug Report? </ins>
 
 - Navigate to the **[Issues]()** tab
@@ -148,7 +150,8 @@ This section guides you through submitting an enhancement suggestion for the MIC
 Before creating enhancement suggestions, please check the **[Issues](https://github.com/Unearthlyglow/sveltego/issues)** tab as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible, including the steps that you imagine you would take if the feature you're requesting existed.
 
 &nbsp;
- 
+
+ <a id="good-enhancements"></a>
 ### <ins> How Do I Submit A (Good) Enhancement Suggestion? </ins>
 
 - Navigate to the **[Issues](https://github.com/Unearthlyglow/micr-ccm/issues)** page
@@ -161,6 +164,7 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
+ <a id="labels"></a>
 ###  <ins> Issue Labels: </ins>
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
@@ -204,6 +208,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
 
+ <a id="linters"></a>
 ### <ins> Linters: </ins>
 
  **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
@@ -211,7 +216,8 @@ While the prerequisites above must be satisfied prior to having your pull reques
  **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
 
  &nbsp;
- 
+
+<a id="git"></a>
 ### <ins> Git Commit Messages:  </ins>
 
 Use the present tense ("Add feature" not "Added feature")
@@ -224,12 +230,14 @@ Reference issues and pull requests liberally after the first line
 
 &nbsp;
 
+ <a id="go-style"></a>
 ### <ins> GO Style Guide: </ins>
 
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
 &nbsp;
- 
+
+  <a id="doc-style"></a>
 ### <ins> Documentation Styleguide: </ins>
 
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
