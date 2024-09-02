@@ -23,7 +23,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 [Code of Conduct](#code-of-conduct)
 
-[TLDR I just have a question!](#tldr-i-just-have-a-question!)
+[TL;DR I just have a question!](#tldr-i-just-have-a-question!)
 
 [How Can I Contribute?](#how-can-i-contribute)
 
@@ -43,15 +43,15 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 [Pull Requests](#pull-requests)
 
+[Styleguides](#styleguides)
+
+###### [Linters](#linters)
+
 ###### [Git Commit Messages](#git)
 
 ###### [GO Style Guide](#go-style)
 
-###### [Linters](#linters)
-
 ###### [Documentation Style Guide ](#doc-style)
-
-[Styleguides](#styleguides)
 
 [Thank You To Atom](#thank-you-to-atom)
    
@@ -69,7 +69,9 @@ This project and everyone participating in it is governed by the **[MICR Code of
 <div align="left"> 🔹 </div>
 
 <a id="tldr-i-just-have-a-question!"></a>
-## TLDR I just have a question! <div align="right"> ❔ </div>
+## TL;DR I just have a question! <div align="right"> ❔ </div>
+
+(TL;DR = Too long; didn't read) 
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
@@ -117,7 +119,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
-### <ins> Before Submitting A Bug Report </ins>
+### <ins> Before Submitting A Bug Report: </ins>
 
 **[!NEED || 1. FAQ Document 2. Link for FAQ Doc]**
 * **Check** the **[FAQ]([!NEED])** for a list of common questions and problems.
@@ -159,9 +161,7 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
-###  <ins> Issue Labels </ins>
-
-
+###  <ins> Issue Labels: </ins>
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
   
@@ -203,8 +203,16 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
+
+### <ins> Linters: </ins>
+
+ **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
  
-### <ins> Git Commit Messages  </ins>
+ **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
+
+ &nbsp;
+ 
+### <ins> Git Commit Messages:  </ins>
 
 Use the present tense ("Add feature" not "Added feature")
 
@@ -216,21 +224,13 @@ Reference issues and pull requests liberally after the first line
 
 &nbsp;
 
-### <ins> GO Style Guide </ins>
+### <ins> GO Style Guide: </ins>
 
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
 &nbsp;
  
-### <ins> Linters </ins>
-
- **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
- 
- **[Prettier](https://prettier.io/)** For **HTML**, **CSS**, **SCSS**, & **Javascript**
-
- &nbsp;
- 
-### <ins> Documentation Styleguide </ins>
+### <ins> Documentation Styleguide: </ins>
 
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
