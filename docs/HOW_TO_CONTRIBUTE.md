@@ -208,7 +208,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
 
- <a id="linters"></a>
+<a id="linters"></a>
 ### <ins> Linters: </ins>
 
  **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
