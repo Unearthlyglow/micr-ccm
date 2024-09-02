@@ -45,7 +45,7 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 [Styleguides](#styleguides)
 
-###### [Linters](#linters)
+###### [Linters](#lint)
 
 ###### [Git Commit Messages](#git)
 
@@ -208,7 +208,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
 
-<a id="linters"></a>
+<a id="lint"></a>
 ### <ins> Linters: </ins>
 
  **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
