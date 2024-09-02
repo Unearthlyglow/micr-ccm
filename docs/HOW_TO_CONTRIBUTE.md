@@ -21,25 +21,39 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 	
 ## <div align="center"> Table of contents
 
-**[Code of Conduct](#code-of-conduct)**
+[Code of Conduct](#code-of-conduct)
 
-**[TLDR I just have a question!](#tldr-i-just-have-a-question!)**
+[TLDR I just have a question!](#tldr-i-just-have-a-question!)
 
-**[How Can I Contribute?](#how-can-i-contribute)**
+[How Can I Contribute?](#how-can-i-contribute)
 
-**[Reporting Bugs](#reporting-bugs)**
+[Reporting Bugs](#reporting-bugs)
 
-###### **[Before Submitting A Bug Report](#reporting-bugs)**
+###### [Before Submitting A Bug Report](#before-bug)
 
-**[Suggesting Enhancements](#suggesting-enhancements)**
+###### [How Do I Submit A (Good) Bug Report? ](#good-bug)
 
-**[Local Development](#local-development)**
+[Suggesting Enhancements](#suggesting-enhancements)
 
-**[Pull Requests](#pull-requests)**
+###### [How Do I Submit A (Good) Enhancement Suggestion?](#good-enhancements)
 
-**[Styleguides](#styleguides)**
+###### [Issue Labels](#issue-labels)
 
-**[Thank You To Atom](#thank-you-to-atom)**
+[Local Development](#local-development)
+
+[Pull Requests](#pull-requests)
+
+###### [Git Commit Messages](#git)
+
+###### [GO Style Guide](#go-style)
+
+###### [Linters](#linters)
+
+###### [Documentation Style Guide ](#doc-style)
+
+[Styleguides](#styleguides)
+
+[Thank You To Atom](#thank-you-to-atom)
    
 </div>
 
