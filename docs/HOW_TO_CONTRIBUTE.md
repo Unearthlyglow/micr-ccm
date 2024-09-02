@@ -101,7 +101,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
-### Before Submitting A Bug Report
+### <ins> Before Submitting A Bug Report </ins>
 
 **[!NEED || 1. FAQ Document 2. Link for FAQ Doc]**
 * **Check** the **[FAQ]([!NEED])** for a list of common questions and problems.
@@ -110,7 +110,7 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 
 &nbsp;
 
-### How Do I Submit A (Good) Bug Report?
+### <ins> How Do I Submit A (Good) Bug Report? </ins>
 
 - Navigate to the **[Issues]()** tab
 - Select **New Issue**
@@ -131,7 +131,7 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 
 &nbsp;
  
-### How Do I Submit A (Good) Enhancement Suggestion?
+### <ins> How Do I Submit A (Good) Enhancement Suggestion? </ins>
 
 - Navigate to the **[Issues](https://github.com/Unearthlyglow/micr-ccm/issues)** page
 - Select **New Issue**
@@ -143,7 +143,9 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 &nbsp;
 
-### Issue Labels <div align="right"> 📔 </div>
+###  <ins> Issue Labels </ins>
+
+
 
 You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
   
@@ -183,16 +185,6 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 <div align="left"> 🔹 </div>
 
-### Issue Labels <div align="right"> 📔 </div>
-
-You can find a list of all the labels and their descriptions for this project [here](https://github.com/Unearthlyglow/micr-ccm/labels?sort=count-desc)
-  
-When creating an issue, please do your best to attach the appropriate labels. Don’t fret too much about making sure you’ve attached the perfect set of labels to the issue, a maintainer will review each issue and then once it looks good will leave a comment either asking for more info or giving it the go-ahead to be worked, attach a GREEN label that says (Ready-To-Be-Worked) and list its priority and appropriate milestone association.
-
-&nbsp;
-
-<div align="left"> 🔹 </div>
-
 <a id="styleguides"></a>
 ## Styleguides <div align="right"> 🧑‍🎨 </div>
  
@@ -208,13 +200,13 @@ Reference issues and pull requests liberally after the first line
 
 &nbsp;
 
-### GO Style Guide 
+### <ins> GO Style Guide </ins>
 
 Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)**. Don't let the guide's length fill you with fear, code in small chunks and use the guide to help make sure you're on the right path. 
 
 &nbsp;
  
-### Linters 
+### <ins> Linters </ins>
 
  **[Golangci-lint](https://github.com/golangci/golangci-lint?tab=readme-ov-file)** For **GO**
  
@@ -222,7 +214,7 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
 
  &nbsp;
  
-### Documentation Styleguide  
+### <ins> Documentation Styleguide </ins>
 
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
