@@ -29,6 +29,8 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 **[Reporting Bugs](#reporting-bugs)**
 
+###### **[Before Submitting A Bug Report](#reporting-bugs)**
+
 **[Suggesting Enhancements](#suggesting-enhancements)**
 
 **[Local Development](#local-development)**
