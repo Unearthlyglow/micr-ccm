@@ -156,8 +156,6 @@ Before creating enhancement suggestions, please check the **[Issues](https://git
 - Select **New Issue**
 - Select **Get Started** under  **Bug Report** 
 
-You can also retrieve the Feature/Enhancement template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/feature-request.md)**. 
-
 <b><div align="right">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-feature.png?raw=true)</div>
 
 &nbsp;
