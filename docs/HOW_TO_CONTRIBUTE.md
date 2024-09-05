@@ -29,15 +29,15 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 [Reporting Bugs](#reporting-bugs)
 
-###### [Before Submitting A Bug Report](#before-bug)
+###### - [Before Submitting A Bug Report](#before-bug)
 
-###### [How Do I Submit A (Good) Bug Report? ](#good-bug)
+###### - [How Do I Submit A (Good) Bug Report? ](#good-bug)
 
 [Suggesting Enhancements](#suggesting-enhancements)
 
-###### [How Do I Submit A (Good) Enhancement Suggestion?](#good-enhancements)
+###### - [How Do I Submit A (Good) Enhancement Suggestion?](#good-enhancements)
 
-###### [Issue Labels](#issue)
+###### - [Issue Labels](#issue)
 
 [Local Development](#local-development)
 
@@ -45,13 +45,13 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
 
 [Styleguides](#styleguides)
 
-###### [Linters](#lint)
+###### - [Linters](#lint)
 
-###### [Git Commit Messages](#git)
+###### - [Git Commit Messages](#git)
 
-###### [GO Style Guide](#go-style)
+###### - [GO Style Guide](#go-style)
 
-###### [Documentation Style Guide ](#doc-style)
+###### - [Documentation Style Guide ](#doc-style)
 
 [Thank You To Atom](#thank-you-to-atom)
    
