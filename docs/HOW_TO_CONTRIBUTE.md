@@ -136,8 +136,6 @@ Before creating bug reports, please check [this list](https://github.com/Unearth
 - Select **New Issue**
 - Select **Get Started** under  **Bug Report** 
 
-You can also retrieve the Bug Report template **[here](https://github.com/Unearthlyglow/sveltego/blob/main/.github/ISSUE_TEMPLATE/bug-report.md?plain=1)**. 
-
 <b><div align="right">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
 <div align="left"> 🔹 </div>
